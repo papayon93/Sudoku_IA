@@ -2,33 +2,140 @@ let matrix = [];
 let quantidade = [0,0,0,0,0,0,0,0,0,0];
 let faltantes = [];
 let funcObjetivo = 0;
+let funcObjetivoPre = 0;
+let individuo = []
+let individuoPre = []
+let timeTotal = new Date()
+let timeLap = new Date()
+let mudar = 0;
+let valor = 0;
+//tentantiva para achar a solução
+let tentantivaSol = 0
+//Iteração numa tentativa
+let iteracaoHill = 0
+//No de iterações maximas numa tentativa
+const cicloiteracao = 10000
+let numeroIteracoes = cicloiteracao
+//historico 
+let historico = []
 
 const hillClimbing = () => {
+	funcObjetivo = 0;
+	funcObjetivoPre = 0
 	contarNumeros()
 	crearFaltantes()
-	preencherSudoku()
-	inicializarMatriz()
+	
+	inicializarDatos()
+	console.log("Começo:",funcObjetivo)
+	console.log("Individuo:",individuo)
+	job()
+}
 
+const inicializarDatos = () => {
+	timeLap = new Date()
+	iteracaoHill = 0
+	individuo = []
+	inicializarMatriz()
+	preencherSudoku()
 	calFuncObjetivo()
+	funcObjetivoPre = clone(funcObjetivo)
+	individuoPre = clone(individuo)
+}
+
+const job = () => {
+	setTimeout(() => {
+		trabalhar()
+	}, 10);
+}
+
+const trabalhar = () => {
+	funcObjetivo = 0;
+	iteracaoHill++
+	numeroIteracoes--
+	melhoraFuncObjetivo()
+	inicializarMatriz()
+	atualizarSudoku()
+	calFuncObjetivo()
+
+	if(funcObjetivo < funcObjetivoPre){
+
+		if(historico[tentantivaSol] == undefined){
+			historico[tentantivaSol] = {
+				melhorIndividuo:[],
+				iteracoes:[],
+				tentMax:0,
+				tempototal:0,
+			}
+		}
+		
+		numeroIteracoes = cicloiteracao
+		funcObjetivoPre = clone(funcObjetivo)
+		individuoPre = clone(individuo)
+		// console.log(individuoPre)
+		// console.log("Pos:",mudar,"Val:",valor, "iteracao:", iteracaoHill)
+		let tempotemp = (((new Date()).getTime() - timeLap.getTime())/1000)
+		console.log(`Novo F: ${funcObjetivo}, Time: ${tempotemp}, Iteração: ${iteracaoHill}`)
+		historico[tentantivaSol].iteracoes.push({
+			f:funcObjetivo,
+			t:tempotemp,
+			i:iteracaoHill
+		})
+	}
+	else{
+		individuo = clone(individuoPre)
+	}
+	if(numeroIteracoes == 0){
+		let tempotemp = (((new Date()).getTime() - timeTotal.getTime())/1000)
+		const style = 'color: red; font-size: 14px';
+		console.log("%c Achei minimo local",style)
+		console.log(individuoPre)
+		console.log(`Novo F: ${funcObjetivoPre}, Iteração: ${iteracaoHill}, Time: ${(((new Date()).getTime() - timeLap.getTime())/1000)}, Total time: ${tempotemp}`)
+		historico[tentantivaSol].tentMax = iteracaoHill
+		historico[tentantivaSol].melhorIndividuo = individuoPre
+		historico[tentantivaSol].tempototal = tempotemp
+		tentantivaSol++;		
+		inicializarDatos()
+	}
+	if(funcObjetivoPre != 0)
+		job()
+}
+
+const melhoraFuncObjetivo = () =>{
+	// console.log(individuo)
+	let pos = Math.floor((Math.random() * individuo.length));
+	// console.log("pos",pos)
+	let numMax = individuo.length - pos;
+	// console.log("max",numMax)
+	let rand = Math.floor((Math.random() * numMax));
+	// console.log("rand",rand)
+	mudar = pos;
+	valor = rand
+	// if(individuo[pos] == rand)
+		// melhoraFuncObjetivo()
+	// else
+		individuo[pos] = rand;
+	// console.log(individuo)
 }
 
 const inicializarMatriz = () => {
 	for(let linha = 1; linha < 10; linha += 1) {
 		matrix[linha] = [];
 		for(let coluna = 1; coluna < 10; coluna += 1) {
-			matrix[linha][coluna] = sudoku(linha,coluna);
+			if(document.getElementById('cell-'+(linha)+(coluna)).disabled == true)
+				matrix[linha][coluna] = sudoku(linha,coluna);
+			else
+				matrix[linha][coluna] = 0;
     }
   }
 }
 
 const calFuncObjetivo = () => {
-	
-  funcObjetivo += contarNumerosRepetidosColuna();
-  funcObjetivo += contarNumerosRepetidosLinha();
-  funcObjetivo += contarNumerosRepetidosBloco();
-  console.log(funcObjetivo)
-  
-  
+	// let f = 0
+	funcObjetivo += contarNumerosRepetidosColuna();
+	funcObjetivo += contarNumerosRepetidosLinha();
+	funcObjetivo += contarNumerosRepetidosBloco();
+	// console.log("funcCalculada",funcObjetivo)
+
 	// for(let linha = 1; linha < 10; linha += 1) {
 	// 	for(let coluna = 1; coluna < 10; coluna += 1) {
 	// 		let numero = matrix[linha][coluna]
@@ -36,13 +143,14 @@ const calFuncObjetivo = () => {
 	// 		funcObjetivo += colunaRepetida(numero,coluna);
 	// 		// funcObjetivo += blocoRepetido(numero,linha,coluna);
 	// 		console.log(funcObjetivo,linha,coluna,numero)
- //    }
- //  }
- //  console.log(funcObjetivo)
+	//    }
+	//  }
+	//  console.log(funcObjetivo)
+ 	// return f
 }
 
 const contarNumerosRepetidosColuna = () => {
-	let quantidade = 0
+	let quantidadeNumeros = 0
 	for(let coluna = 1; coluna < 10; coluna += 1) {
 		let feitos = [0,0,0,0,0,0,0,0,0,0]
 		let q = 0
@@ -50,17 +158,17 @@ const contarNumerosRepetidosColuna = () => {
 			let numero = matrix[linha][coluna]
 			feitos[numero]++
     }
-    // console.log(feitos)
+	// console.log(feitos)
     q += feitos.reduce((a,b)=>(b==1 || b==0)?a:(a+b-1));
-    console.log("Coluna",coluna,q)
-    quantidade += q
+    // console.log("Coluna",coluna,q)
+    quantidadeNumeros += q
   }
-  console.log("Repetidos nas Colunas",quantidade)
-  return quantidade
+//   console.log("Repetidos nas Colunas",quantidadeNumeros)
+  return quantidadeNumeros
 }
 
 const contarNumerosRepetidosLinha = () => {
-	let quantidade = 0
+	let quantidadeNumeros = 0
 	for(let linha = 1; linha < 10; linha += 1) {
 		let feitos = [0,0,0,0,0,0,0,0,0,0]
 		let q = 0
@@ -70,15 +178,15 @@ const contarNumerosRepetidosLinha = () => {
     }
     // console.log(feitos)
     q += feitos.reduce((a,b)=>(b==1 || b==0)?a:(a+b-1));
-    console.log("Linha",linha,q)
-    quantidade += q
+    // console.log("Linha",linha,q)
+    quantidadeNumeros += q
   }
-  console.log("Repetidos nas Linhas",quantidade)
-  return quantidade
+//   console.log("Repetidos nas Linhas",quantidadeNumeros)
+  return quantidadeNumeros
 }
 
 const contarNumerosRepetidosBloco = () => {
-	let quantidade = 0
+	let quantidadeNumeros = 0
 	for(let l = 0; l < 3; l += 1) {		
 		for(let c = 0; c < 3; c += 1) {
 			let feitos = [0,0,0,0,0,0,0,0,0,0]
@@ -91,12 +199,12 @@ const contarNumerosRepetidosBloco = () => {
 		    }
 	    }
 	    q += feitos.reduce((a,b)=>(b==1 || b==0)?a:(a+b-1));
-	    console.log("Bloco",l,c,q)
-    	quantidade += q
+	    // console.log("Bloco",l,c,q)
+    	quantidadeNumeros += q
     }
   }
-  console.log("Repetidos nos Blocos",quantidade)
-  return quantidade
+//   console.log("Repetidos nos Blocos",quantidadeNumeros)
+  return quantidadeNumeros
 }
 
 // const linhaRepetida = (numero,linha) => {
@@ -141,19 +249,45 @@ const contarNumeros = () => {
   console.log("numeros:",quantidade);
 }
 
-const preencherSudoku = () => {
+const fixarNumeros = () => {
 	for(let linha = 1; linha < 10; linha += 1) {
 		for(let coluna = 1; coluna < 10; coluna += 1) {
-			if(sudoku(linha,coluna) == 0){
-				let newNumero = Math.floor((Math.random() * faltantes.length));
-				setSudoku(linha,coluna,faltantes[newNumero]);
-				faltantes.splice(newNumero, 1);
-			}
-			else{
+			if(document.getElementById('cell-'+(linha)+(coluna)).value != 0){
 				disableSudoku(linha,coluna);	
+			}
+    	}
+  	}
+}
+
+const preencherSudoku = () => {
+	let falt = clone(faltantes);
+	for(let linha = 1; linha < 10; linha += 1) {
+		for(let coluna = 1; coluna < 10; coluna += 1) {
+			if(matrix[linha][coluna] == 0){
+				let newNumero = Math.floor((Math.random() * falt.length));
+				matrix[linha][coluna] = falt[newNumero]
+				setSudoku(linha,coluna,falt[newNumero]);
+				individuo.push(newNumero);
+				falt.splice(newNumero, 1);
 			}
     }
   }
+}
+
+const atualizarSudoku = () => {
+	let falt = clone(faltantes);
+	let c = 0
+	for(let linha = 1; linha < 10; linha += 1) {
+		for(let coluna = 1; coluna < 10; coluna += 1) {
+			if(matrix[linha][coluna] == 0){				
+				let newNumero = individuo[c];
+				matrix[linha][coluna] = falt[newNumero]
+				setSudoku(linha,coluna,falt[newNumero]);
+				falt.splice(newNumero, 1);
+				c++
+			}
+    	}
+  	}
 }
 
 
@@ -163,6 +297,7 @@ const sudoku = (l,c) =>{
 		return parseInt(n)
 	else
 		return 0
+	
 }
 
 const setSudoku = (l,c,n) =>{
@@ -171,7 +306,20 @@ const setSudoku = (l,c,n) =>{
 
 const disableSudoku = (l,c) =>{
 	document.getElementById('cell-'+(l)+(c)).style.color = "blue";
+	document.getElementById('cell-'+(l)+(c)).disabled = true;
 }
 
+const clone = (obj) => {
+    if (null == obj || "object" != typeof obj) return obj;
+    var copy = obj.constructor();
+    for (var attr in obj) {
+        if (obj.hasOwnProperty(attr)) copy[attr] = obj[attr];
+    }
+    return copy;
+}
 
+const setValMatrix = (v) =>{
+	console.log(v)
+}
+fixarNumeros()
 hillClimbing()

@@ -1,0 +1,2019 @@
+numeros: (10) [0, 3, 2, 2, 3, 2, 1, 1, 2, 1]
+Começo: 80
+Individuo: (64) [17, 34, 35, 50, 59, 44, 45, 37, 40, 13, 22, 13, 28, 24, 15, 43, 26, 45, 25, 23, 35, 9, 4, 40, 16, 19, 0, 32, 13, 29, 15, 8, 9, 27, 18, 12, 13, 10, 3, 3, 22, 2, 16, 1, 3, 14, 13, 1, 2, 7, 9, 12, 6, 6, 6, 6, 4, 0, 4, 3, 0, 0, 1, 0]
+Novo F: 79, Time: 0.074
+Novo F: 78, Time: 0.098
+Novo F: 76, Time: 0.193
+Novo F: 74, Time: 0.204
+Novo F: 73, Time: 0.389
+Novo F: 71, Time: 0.543
+Novo F: 69, Time: 0.576
+Novo F: 67, Time: 0.599
+Novo F: 66, Time: 0.988
+Novo F: 65, Time: 1.022
+Novo F: 64, Time: 1.065
+Novo F: 63, Time: 1.089
+Novo F: 62, Time: 1.189
+Novo F: 59, Time: 1.233
+Novo F: 58, Time: 1.425
+Novo F: 56, Time: 2.804
+Novo F: 55, Time: 6.398
+Novo F: 54, Time: 6.971
+Novo F: 53, Time: 9.124
+Novo F: 52, Time: 13.565
+Novo F: 51, Time: 20.154
+Novo F: 50, Time: 20.525
+Novo F: 49, Time: 20.736
+Novo F: 47, Time: 20.859
+Novo F: 46, Time: 22.009
+Novo F: 45, Time: 24.523
+ Achei minimo local
+(64) [21, 25, 25, 50, 59, 30, 45, 37, 1, 11, 1, 19, 28, 24, 15, 43, 26, 45, 34, 23, 23, 9, 4, 40, 16, 20, 17, 32, 13, 31, 15, 19, 9, 27, 18, 7, 13, 10, 5, 3, 22, 2, 16, 17, 6, 10, 8, 1, 2, 7, 9, 12, 6, 6, 2, 6, 4, 0, 4, 4, 0, 1, 1, 0]
+Novo F: 45, Time: 134.644, Total time: 134.645
+Novo F: 80, Time: 0.012
+Novo F: 77, Time: 0.045
+Novo F: 75, Time: 0.057
+Novo F: 74, Time: 0.179
+Novo F: 72, Time: 0.212
+Novo F: 71, Time: 0.224
+Novo F: 69, Time: 0.312
+Novo F: 68, Time: 0.369
+Novo F: 67, Time: 0.479
+Novo F: 66, Time: 0.558
+Novo F: 64, Time: 1.908
+Novo F: 62, Time: 1.985
+Novo F: 61, Time: 2.018
+Novo F: 60, Time: 2.162
+Novo F: 59, Time: 2.274
+Novo F: 58, Time: 4.174
+Novo F: 57, Time: 4.419
+Novo F: 56, Time: 4.507
+Novo F: 55, Time: 4.843
+Novo F: 54, Time: 5.161
+Novo F: 53, Time: 5.285
+Novo F: 52, Time: 5.757
+Novo F: 51, Time: 6.04
+Novo F: 50, Time: 6.301
+Novo F: 49, Time: 7.713
+Novo F: 48, Time: 9.851
+Novo F: 47, Time: 11.953
+Novo F: 46, Time: 12.074
+Novo F: 45, Time: 13.551
+Novo F: 44, Time: 13.563
+Novo F: 41, Time: 13.912
+Novo F: 40, Time: 15.278
+Novo F: 39, Time: 15.367
+ Achei minimo local
+(64) [1, 60, 14, 47, 6, 10, 18, 50, 16, 31, 0, 38, 51, 4, 12, 21, 47, 21, 29, 18, 25, 3, 28, 7, 34, 38, 4, 10, 14, 28, 5, 29, 30, 19, 1, 22, 7, 11, 7, 15, 18, 21, 6, 5, 15, 18, 2, 5, 2, 9, 3, 6, 2, 1, 6, 7, 6, 6, 2, 2, 1, 1, 0, 0]
+Novo F: 42, Time: 125.447, Total time: 260.093
+Novo F: 76, Time: 0.012
+Novo F: 75, Time: 0.024
+Novo F: 72, Time: 0.046
+Novo F: 69, Time: 0.125
+Novo F: 67, Time: 0.147
+Novo F: 64, Time: 0.213
+Novo F: 63, Time: 0.536
+Novo F: 60, Time: 0.636
+Novo F: 57, Time: 1.041
+Novo F: 56, Time: 2.007
+Novo F: 55, Time: 2.03
+Novo F: 54, Time: 2.267
+Novo F: 53, Time: 2.413
+Novo F: 52, Time: 2.596
+Novo F: 51, Time: 3.113
+Novo F: 50, Time: 3.33
+Novo F: 49, Time: 3.862
+Novo F: 48, Time: 10.36
+Novo F: 45, Time: 12.041
+ Achei minimo local
+(64) [47, 1, 24, 28, 5, 7, 55, 47, 6, 5, 44, 24, 13, 3, 23, 14, 36, 34, 27, 26, 18, 8, 4, 38, 17, 37, 29, 13, 25, 7, 7, 19, 26, 0, 9, 28, 24, 10, 18, 18, 6, 16, 11, 13, 19, 14, 3, 9, 7, 9, 0, 9, 3, 4, 5, 8, 5, 2, 2, 1, 3, 1, 1, 0]
+Novo F: 51, Time: 122.265, Total time: 382.359
+Novo F: 82, Time: 0.012
+Novo F: 80, Time: 0.054
+Novo F: 79, Time: 0.098
+Novo F: 77, Time: 0.152
+Novo F: 74, Time: 0.217
+Novo F: 73, Time: 0.229
+Novo F: 71, Time: 0.479
+Novo F: 70, Time: 0.624
+Novo F: 68, Time: 0.648
+Novo F: 67, Time: 1.018
+Novo F: 66, Time: 1.497
+Novo F: 65, Time: 1.958
+Novo F: 63, Time: 1.991
+Novo F: 62, Time: 2.003
+Novo F: 60, Time: 2.278
+Novo F: 59, Time: 6.794
+Novo F: 58, Time: 7.146
+Novo F: 57, Time: 7.353
+Novo F: 56, Time: 8.962
+Novo F: 55, Time: 9.357
+Novo F: 54, Time: 9.894
+Novo F: 53, Time: 10.374
+Novo F: 52, Time: 10.807
+Novo F: 51, Time: 10.918
+Novo F: 50, Time: 12.161
+Novo F: 49, Time: 12.284
+Novo F: 48, Time: 14.123
+Novo F: 46, Time: 16.145
+ Achei minimo local
+(64) [8, 48, 21, 0, 26, 41, 3, 34, 5, 15, 42, 26, 17, 21, 45, 33, 45, 2, 7, 19, 21, 6, 13, 29, 16, 17, 36, 24, 0, 27, 26, 1, 15, 10, 8, 1, 7, 13, 22, 15, 3, 20, 12, 9, 9, 0, 0, 11, 9, 4, 11, 2, 5, 5, 1, 2, 6, 3, 3, 4, 0, 2, 0, 0]
+Novo F: 58, Time: 126.243, Total time: 508.603
+Novo F: 73, Time: 0.014
+Novo F: 69, Time: 0.027
+Novo F: 68, Time: 0.049
+Novo F: 63, Time: 0.083
+Novo F: 62, Time: 0.139
+Novo F: 61, Time: 0.183
+Novo F: 59, Time: 0.556
+Novo F: 57, Time: 0.765
+Novo F: 56, Time: 0.778
+Novo F: 55, Time: 0.95
+Novo F: 53, Time: 1.473
+Novo F: 52, Time: 1.506
+Novo F: 51, Time: 1.679
+Novo F: 49, Time: 2.017
+Novo F: 48, Time: 2.511
+Novo F: 46, Time: 4.845
+Novo F: 45, Time: 5.973
+Novo F: 44, Time: 7.844
+Novo F: 43, Time: 8.399
+Novo F: 42, Time: 12.472
+Novo F: 41, Time: 12.484
+Novo F: 39, Time: 16.561
+Novo F: 38, Time: 27.916
+ Achei minimo local
+(64) [11, 5, 34, 25, 49, 13, 47, 43, 14, 46, 39, 2, 4, 27, 42, 14, 28, 17, 19, 43, 41, 2, 11, 32, 37, 25, 25, 4, 0, 13, 11, 19, 4, 25, 12, 19, 13, 11, 19, 6, 0, 20, 6, 9, 2, 10, 17, 11, 9, 4, 9, 11, 3, 6, 3, 3, 1, 4, 0, 0, 0, 0, 0, 0]
+Novo F: 49, Time: 138.007, Total time: 646.611
+Novo F: 73, Time: 0.012
+Novo F: 70, Time: 0.045
+Novo F: 69, Time: 0.082
+Novo F: 68, Time: 0.136
+Novo F: 66, Time: 0.158
+Novo F: 65, Time: 0.191
+Novo F: 64, Time: 0.203
+Novo F: 61, Time: 0.247
+Novo F: 60, Time: 0.28
+Novo F: 57, Time: 0.612
+Novo F: 53, Time: 0.829
+Novo F: 52, Time: 1.507
+Novo F: 50, Time: 2.062
+ Achei minimo local
+(64) [11, 59, 56, 59, 37, 38, 18, 55, 4, 45, 2, 8, 33, 20, 32, 22, 14, 23, 3, 21, 23, 37, 33, 40, 13, 19, 1, 24, 33, 12, 30, 25, 26, 19, 22, 0, 10, 17, 24, 14, 1, 6, 10, 15, 17, 5, 7, 0, 15, 0, 12, 3, 3, 0, 6, 3, 2, 2, 2, 0, 2, 0, 1, 0]
+Novo F: 50, Time: 112.035, Total time: 758.647
+Novo F: 79, Time: 0.011
+Novo F: 78, Time: 0.097
+Novo F: 77, Time: 0.109
+Novo F: 74, Time: 0.121
+Novo F: 73, Time: 0.143
+Novo F: 71, Time: 0.242
+Novo F: 68, Time: 0.387
+Novo F: 67, Time: 0.41
+Novo F: 66, Time: 0.453
+Novo F: 65, Time: 0.56
+Novo F: 64, Time: 0.593
+Novo F: 62, Time: 0.68
+Novo F: 61, Time: 0.802
+Novo F: 58, Time: 1.647
+Novo F: 57, Time: 1.958
+Novo F: 56, Time: 2.021
+Novo F: 55, Time: 2.152
+Novo F: 54, Time: 12.803
+Novo F: 53, Time: 14.059
+Novo F: 52, Time: 14.698
+Novo F: 51, Time: 16.499
+Novo F: 50, Time: 17.108
+Novo F: 49, Time: 17.198
+Novo F: 48, Time: 21.158
+Novo F: 47, Time: 22.197
+Novo F: 46, Time: 30.447
+ Achei minimo local
+(64) [24, 12, 27, 34, 57, 16, 44, 32, 30, 52, 16, 45, 23, 49, 20, 34, 30, 41, 4, 1, 30, 5, 36, 21, 32, 6, 25, 16, 19, 20, 14, 29, 5, 8, 23, 25, 0, 9, 20, 7, 15, 4, 11, 3, 9, 5, 11, 9, 12, 6, 2, 12, 9, 9, 3, 0, 6, 5, 2, 2, 0, 1, 0, 0]
+Novo F: 48, Time: 140.533, Total time: 899.181
+Novo F: 67, Time: 0.013
+Novo F: 66, Time: 0.217
+Novo F: 65, Time: 0.239
+Novo F: 64, Time: 0.306
+Novo F: 63, Time: 0.616
+Novo F: 62, Time: 0.829
+Novo F: 61, Time: 0.841
+Novo F: 60, Time: 0.852
+Novo F: 59, Time: 0.875
+Novo F: 57, Time: 1.212
+Novo F: 56, Time: 1.224
+Novo F: 55, Time: 1.433
+Novo F: 54, Time: 1.922
+Novo F: 53, Time: 1.998
+Novo F: 52, Time: 4.333
+Novo F: 51, Time: 4.345
+Novo F: 50, Time: 4.551
+Novo F: 49, Time: 5.182
+Novo F: 48, Time: 5.378
+Novo F: 47, Time: 6.562
+Novo F: 46, Time: 10.179
+Novo F: 45, Time: 12.883
+Novo F: 44, Time: 14.379
+Novo F: 42, Time: 25.339
+Novo F: 41, Time: 26.361
+ Achei minimo local
+(64) [59, 35, 0, 0, 7, 12, 23, 30, 26, 51, 47, 11, 30, 1, 17, 5, 7, 33, 39, 19, 39, 36, 15, 2, 6, 6, 3, 33, 30, 3, 4, 2, 7, 14, 23, 16, 25, 22, 24, 13, 18, 18, 6, 13, 3, 14, 2, 6, 3, 11, 11, 1, 1, 1, 6, 8, 3, 5, 2, 3, 1, 2, 1, 0]
+Novo F: 48, Time: 136.398, Total time: 1035.58
+Novo F: 81, Time: 0.013
+Novo F: 76, Time: 0.077
+Novo F: 75, Time: 0.12
+Novo F: 73, Time: 0.155
+Novo F: 71, Time: 0.22
+Novo F: 70, Time: 0.242
+Novo F: 68, Time: 0.789
+Novo F: 67, Time: 0.897
+Novo F: 66, Time: 1.005
+Novo F: 65, Time: 1.028
+Novo F: 64, Time: 1.128
+Novo F: 63, Time: 1.562
+Novo F: 61, Time: 2.033
+Novo F: 60, Time: 2.089
+Novo F: 59, Time: 2.279
+Novo F: 58, Time: 2.301
+Novo F: 57, Time: 4.389
+Novo F: 56, Time: 4.456
+Novo F: 55, Time: 4.912
+Novo F: 54, Time: 6.072
+Novo F: 53, Time: 6.339
+Novo F: 52, Time: 6.435
+Novo F: 50, Time: 6.928
+Novo F: 49, Time: 7.862
+Novo F: 47, Time: 8.75
+ Achei minimo local
+(64) [50, 5, 55, 2, 3, 18, 14, 2, 4, 44, 23, 6, 44, 48, 36, 27, 33, 10, 6, 7, 37, 20, 5, 0, 14, 8, 26, 19, 32, 2, 10, 26, 6, 10, 14, 21, 24, 4, 18, 7, 4, 9, 7, 20, 13, 0, 9, 6, 8, 0, 5, 9, 1, 8, 2, 4, 1, 1, 1, 0, 3, 0, 1, 0]
+Novo F: 54, Time: 118.735, Total time: 1154.316
+Novo F: 71, Time: 0.012
+Novo F: 68, Time: 0.034
+Novo F: 66, Time: 0.045
+Novo F: 64, Time: 0.113
+Novo F: 63, Time: 0.213
+Novo F: 62, Time: 0.27
+Novo F: 60, Time: 0.347
+Novo F: 57, Time: 0.503
+Novo F: 56, Time: 0.515
+Novo F: 55, Time: 0.67
+Novo F: 53, Time: 2.28
+Novo F: 52, Time: 5.869
+Novo F: 51, Time: 6.176
+Novo F: 50, Time: 6.864
+Novo F: 49, Time: 9.193
+Novo F: 48, Time: 9.281
+Novo F: 47, Time: 9.577
+Novo F: 46, Time: 13.064
+Novo F: 45, Time: 16.83
+Novo F: 44, Time: 18.426
+Novo F: 43, Time: 20.892
+Novo F: 42, Time: 27.767
+Novo F: 41, Time: 33.746
+Novo F: 40, Time: 42.783
+Novo F: 38, Time: 44.275
+Novo F: 36, Time: 44.719
+Novo F: 35, Time: 44.742
+ Achei minimo local
+(64) [33, 30, 10, 1, 52, 51, 49, 29, 15, 14, 7, 26, 23, 35, 19, 47, 37, 46, 2, 37, 28, 0, 8, 35, 26, 25, 32, 15, 19, 6, 33, 4, 13, 7, 18, 28, 18, 9, 16, 7, 10, 18, 3, 0, 19, 4, 2, 0, 9, 4, 5, 9, 2, 2, 5, 8, 4, 4, 4, 4, 2, 2, 0, 0]
+Novo F: 39, Time: 154.899, Total time: 1309.215
+Novo F: 84, Time: 0.011
+Novo F: 80, Time: 0.023
+Novo F: 77, Time: 0.034
+Novo F: 69, Time: 0.046
+Novo F: 66, Time: 0.092
+Novo F: 65, Time: 0.114
+Novo F: 64, Time: 0.137
+Novo F: 63, Time: 0.159
+Novo F: 61, Time: 0.236
+Novo F: 59, Time: 0.259
+Novo F: 57, Time: 0.392
+Novo F: 56, Time: 0.742
+Novo F: 55, Time: 1.041
+Novo F: 54, Time: 1.095
+Novo F: 53, Time: 1.435
+Novo F: 52, Time: 1.524
+Novo F: 51, Time: 1.92
+Novo F: 50, Time: 2.063
+Novo F: 47, Time: 2.971
+Novo F: 45, Time: 6.469
+Novo F: 43, Time: 9.585
+Novo F: 42, Time: 10.997
+Novo F: 41, Time: 12.259
+Novo F: 40, Time: 12.907
+Novo F: 38, Time: 24.412
+ Achei minimo local
+(64) [63, 2, 35, 11, 47, 18, 16, 50, 36, 22, 32, 24, 20, 4, 22, 11, 21, 4, 10, 3, 41, 33, 6, 7, 10, 5, 25, 13, 34, 28, 27, 19, 21, 2, 24, 9, 20, 7, 9, 2, 10, 20, 16, 10, 4, 0, 6, 10, 1, 4, 6, 10, 2, 2, 4, 3, 5, 3, 3, 3, 2, 1, 1, 0]
+Novo F: 42, Time: 134.57, Total time: 1443.786
+Novo F: 80, Time: 0.012
+Novo F: 79, Time: 0.069
+Novo F: 74, Time: 0.123
+Novo F: 72, Time: 0.156
+Novo F: 71, Time: 0.202
+Novo F: 67, Time: 0.28
+Novo F: 66, Time: 0.357
+Novo F: 64, Time: 0.514
+Novo F: 63, Time: 0.752
+Novo F: 62, Time: 0.93
+Novo F: 61, Time: 1.546
+Novo F: 60, Time: 1.558
+Novo F: 59, Time: 1.645
+Novo F: 58, Time: 1.876
+Novo F: 56, Time: 2.39
+Novo F: 54, Time: 2.546
+Novo F: 53, Time: 4.512
+Novo F: 52, Time: 7.345
+Novo F: 51, Time: 7.533
+Novo F: 50, Time: 12.429
+Novo F: 49, Time: 12.913
+ Achei minimo local
+(64) [59, 51, 33, 37, 23, 53, 33, 31, 5, 40, 29, 18, 8, 9, 18, 38, 22, 44, 5, 39, 29, 26, 36, 5, 39, 33, 17, 29, 12, 33, 12, 14, 19, 10, 1, 14, 8, 18, 25, 12, 8, 6, 12, 5, 14, 5, 2, 6, 5, 13, 4, 11, 3, 1, 6, 6, 4, 3, 1, 4, 0, 0, 1, 0]
+Novo F: 55, Time: 123.022, Total time: 1566.809
+Novo F: 91, Time: 0.012
+Novo F: 90, Time: 0.023
+Novo F: 89, Time: 0.035
+Novo F: 88, Time: 0.046
+Novo F: 86, Time: 0.079
+Novo F: 84, Time: 0.102
+Novo F: 81, Time: 0.124
+Novo F: 80, Time: 0.136
+Novo F: 79, Time: 0.2
+Novo F: 78, Time: 0.322
+Novo F: 76, Time: 0.345
+Novo F: 75, Time: 0.409
+Novo F: 74, Time: 0.432
+Novo F: 73, Time: 0.444
+Novo F: 71, Time: 0.467
+Novo F: 70, Time: 0.544
+Novo F: 69, Time: 0.566
+Novo F: 68, Time: 0.631
+Novo F: 67, Time: 0.678
+Novo F: 65, Time: 0.701
+Novo F: 63, Time: 0.945
+Novo F: 61, Time: 0.957
+Novo F: 60, Time: 1.065
+Novo F: 59, Time: 1.388
+Novo F: 58, Time: 1.401
+Novo F: 57, Time: 1.445
+Novo F: 56, Time: 2.378
+Novo F: 55, Time: 6.293
+Novo F: 54, Time: 6.489
+Novo F: 52, Time: 6.501
+Novo F: 51, Time: 6.711
+Novo F: 49, Time: 6.788
+Novo F: 48, Time: 7.317
+Novo F: 47, Time: 9.866
+ Achei minimo local
+(64) [38, 54, 13, 60, 10, 39, 2, 22, 13, 17, 4, 28, 22, 10, 43, 19, 2, 18, 5, 38, 8, 19, 39, 16, 13, 10, 27, 19, 31, 25, 19, 5, 27, 6, 27, 10, 6, 18, 18, 0, 13, 10, 16, 17, 11, 16, 8, 14, 4, 13, 12, 1, 3, 4, 8, 0, 6, 3, 4, 0, 2, 2, 1, 0]
+Novo F: 51, Time: 119.807, Total time: 1686.617
+Novo F: 81, Time: 0.012
+Novo F: 79, Time: 0.044
+Novo F: 75, Time: 0.077
+Novo F: 74, Time: 0.088
+Novo F: 73, Time: 0.112
+Novo F: 72, Time: 0.188
+Novo F: 71, Time: 0.28
+Novo F: 70, Time: 0.402
+Novo F: 69, Time: 0.498
+Novo F: 68, Time: 0.785
+Novo F: 66, Time: 0.807
+Novo F: 65, Time: 0.996
+Novo F: 63, Time: 1.135
+Novo F: 62, Time: 1.18
+Novo F: 60, Time: 2.026
+Novo F: 59, Time: 2.059
+Novo F: 58, Time: 3.828
+Novo F: 57, Time: 5.823
+Novo F: 55, Time: 9.679
+Novo F: 54, Time: 23.297
+Novo F: 53, Time: 29.212
+ Achei minimo local
+(64) [35, 13, 52, 27, 58, 44, 51, 7, 10, 38, 43, 17, 29, 48, 15, 23, 9, 24, 19, 28, 16, 5, 16, 22, 39, 23, 9, 26, 4, 19, 5, 15, 31, 4, 16, 9, 16, 25, 17, 1, 20, 10, 16, 11, 2, 18, 13, 13, 1, 3, 12, 12, 1, 0, 1, 0, 2, 4, 0, 1, 1, 0, 1, 0]
+Novo F: 57, Time: 139.425, Total time: 1826.043
+Novo F: 78, Time: 0.012
+Novo F: 75, Time: 0.023
+Novo F: 74, Time: 0.034
+Novo F: 71, Time: 0.091
+Novo F: 69, Time: 0.124
+Novo F: 67, Time: 0.157
+Novo F: 66, Time: 0.201
+Novo F: 65, Time: 0.902
+Novo F: 64, Time: 0.924
+Novo F: 63, Time: 1.035
+Novo F: 61, Time: 1.179
+Novo F: 60, Time: 1.313
+Novo F: 59, Time: 1.523
+Novo F: 58, Time: 1.578
+Novo F: 57, Time: 1.908
+Novo F: 56, Time: 2.107
+Novo F: 54, Time: 2.379
+Novo F: 53, Time: 2.513
+Novo F: 52, Time: 3.024
+Novo F: 51, Time: 3.757
+Novo F: 50, Time: 4.419
+Novo F: 49, Time: 4.495
+Novo F: 48, Time: 5.012
+Novo F: 47, Time: 5.046
+Novo F: 45, Time: 5.155
+Novo F: 44, Time: 6.545
+Novo F: 43, Time: 8.324
+ Achei minimo local
+(64) [19, 29, 14, 11, 56, 31, 34, 42, 30, 19, 44, 25, 8, 13, 17, 3, 31, 40, 0, 2, 34, 16, 31, 8, 11, 20, 28, 12, 4, 24, 14, 6, 16, 6, 28, 0, 5, 26, 15, 8, 4, 13, 11, 3, 15, 18, 7, 9, 2, 3, 3, 6, 9, 7, 2, 3, 1, 1, 3, 0, 0, 0, 0, 0]
+Novo F: 43, Time: 118.332, Total time: 1944.376
+Novo F: 83, Time: 0.011
+Novo F: 82, Time: 0.044
+Novo F: 81, Time: 0.067
+Novo F: 80, Time: 0.099
+Novo F: 78, Time: 0.132
+Novo F: 77, Time: 0.144
+Novo F: 75, Time: 0.188
+Novo F: 73, Time: 0.263
+Novo F: 72, Time: 0.274
+Novo F: 70, Time: 0.373
+Novo F: 67, Time: 0.407
+Novo F: 66, Time: 0.419
+Novo F: 65, Time: 0.483
+Novo F: 63, Time: 0.495
+Novo F: 62, Time: 1.118
+Novo F: 61, Time: 1.361
+Novo F: 59, Time: 1.447
+Novo F: 58, Time: 1.577
+Novo F: 57, Time: 2.134
+Novo F: 56, Time: 2.557
+Novo F: 55, Time: 4.445
+Novo F: 54, Time: 5.706
+ Achei minimo local
+(64) [35, 10, 56, 29, 50, 26, 23, 13, 45, 33, 11, 16, 18, 18, 4, 32, 35, 28, 18, 30, 36, 3, 7, 19, 11, 26, 19, 30, 3, 16, 28, 28, 17, 4, 21, 28, 12, 19, 2, 22, 14, 11, 17, 17, 5, 14, 16, 6, 10, 3, 1, 3, 7, 7, 1, 3, 6, 1, 4, 3, 2, 1, 0, 0]
+Novo F: 59, Time: 115.903, Total time: 2060.28
+Novo F: 81, Time: 0.012
+Novo F: 79, Time: 0.023
+Novo F: 78, Time: 0.079
+Novo F: 77, Time: 0.122
+Novo F: 75, Time: 0.136
+Novo F: 73, Time: 0.158
+Novo F: 71, Time: 0.191
+Novo F: 70, Time: 0.224
+Novo F: 67, Time: 0.368
+Novo F: 66, Time: 0.589
+Novo F: 65, Time: 0.723
+Novo F: 64, Time: 0.812
+Novo F: 63, Time: 1.373
+Novo F: 61, Time: 1.76
+Novo F: 60, Time: 3.022
+Novo F: 59, Time: 4.384
+Novo F: 58, Time: 5.202
+Novo F: 57, Time: 5.901
+Novo F: 56, Time: 11.506
+Novo F: 55, Time: 13.534
+Novo F: 54, Time: 15.723
+Novo F: 53, Time: 18.672
+ Achei minimo local
+(64) [58, 30, 23, 28, 25, 50, 31, 19, 35, 28, 52, 44, 48, 19, 36, 47, 43, 21, 13, 29, 4, 21, 5, 37, 21, 7, 32, 25, 14, 33, 29, 5, 23, 15, 0, 21, 19, 21, 16, 4, 15, 22, 1, 15, 0, 11, 12, 12, 4, 8, 13, 6, 4, 8, 9, 4, 5, 4, 5, 0, 1, 2, 0, 0]
+Novo F: 54, Time: 128.864, Total time: 2189.145
+Novo F: 72, Time: 0.012
+Novo F: 71, Time: 0.044
+Novo F: 70, Time: 0.067
+Novo F: 68, Time: 0.09
+Novo F: 66, Time: 0.342
+Novo F: 62, Time: 0.418
+Novo F: 60, Time: 0.507
+Novo F: 58, Time: 0.757
+Novo F: 57, Time: 1.367
+Novo F: 55, Time: 1.452
+Novo F: 54, Time: 1.907
+Novo F: 53, Time: 1.929
+Novo F: 51, Time: 2.763
+Novo F: 50, Time: 5.507
+Novo F: 48, Time: 5.673
+Novo F: 47, Time: 7.448
+Novo F: 46, Time: 18.435
+ Achei minimo local
+(64) [57, 7, 53, 57, 30, 55, 23, 44, 34, 21, 51, 7, 4, 4, 21, 15, 16, 33, 27, 37, 2, 37, 22, 17, 37, 34, 14, 0, 2, 26, 25, 1, 0, 29, 5, 15, 2, 0, 21, 5, 15, 2, 0, 13, 19, 2, 9, 15, 6, 3, 1, 6, 8, 3, 2, 5, 3, 5, 2, 0, 2, 0, 0, 0]
+Novo F: 54, Time: 128.721, Total time: 2317.867
+Novo F: 78, Time: 0.013
+Novo F: 74, Time: 0.056
+Novo F: 73, Time: 0.142
+Novo F: 71, Time: 0.154
+Novo F: 70, Time: 0.261
+Novo F: 69, Time: 0.347
+Novo F: 67, Time: 0.711
+Novo F: 65, Time: 0.966
+Novo F: 64, Time: 1.765
+Novo F: 63, Time: 1.888
+Novo F: 62, Time: 2.478
+Novo F: 61, Time: 2.566
+Novo F: 60, Time: 2.766
+Novo F: 59, Time: 3.064
+Novo F: 57, Time: 3.506
+Novo F: 56, Time: 3.562
+Novo F: 55, Time: 5.789
+Novo F: 54, Time: 5.989
+Novo F: 52, Time: 6.089
+Novo F: 51, Time: 6.639
+Novo F: 49, Time: 9.856
+Novo F: 48, Time: 10.182
+Novo F: 47, Time: 10.289
+Novo F: 45, Time: 13.249
+ Achei minimo local
+(64) [23, 60, 45, 45, 47, 26, 7, 17, 41, 26, 47, 24, 8, 33, 1, 42, 38, 12, 12, 25, 43, 32, 41, 12, 1, 3, 11, 17, 33, 24, 25, 6, 29, 8, 29, 27, 12, 24, 14, 15, 17, 5, 18, 1, 10, 9, 5, 6, 9, 4, 9, 4, 8, 4, 0, 6, 5, 1, 4, 1, 2, 1, 1, 0]
+Novo F: 54, Time: 123.33, Total time: 2441.198
+Novo F: 84, Time: 0.013
+Novo F: 80, Time: 0.035
+Novo F: 78, Time: 0.047
+Novo F: 77, Time: 0.09
+Novo F: 75, Time: 0.273
+Novo F: 74, Time: 0.329
+Novo F: 73, Time: 0.426
+Novo F: 71, Time: 0.501
+Novo F: 70, Time: 0.513
+Novo F: 69, Time: 0.557
+Novo F: 68, Time: 0.579
+Novo F: 66, Time: 0.846
+Novo F: 65, Time: 0.988
+Novo F: 63, Time: 1.012
+Novo F: 60, Time: 1.046
+Novo F: 59, Time: 1.167
+Novo F: 57, Time: 1.313
+Novo F: 54, Time: 1.49
+Novo F: 53, Time: 3.323
+Novo F: 52, Time: 11.184
+Novo F: 51, Time: 15.766
+Novo F: 48, Time: 17.022
+Novo F: 47, Time: 18.491
+Novo F: 46, Time: 36.623
+Novo F: 45, Time: 37.856
+ Achei minimo local
+(64) [40, 29, 20, 37, 51, 58, 17, 40, 13, 11, 50, 21, 33, 2, 24, 39, 40, 45, 31, 21, 38, 26, 10, 17, 30, 33, 8, 10, 24, 33, 13, 15, 19, 23, 25, 22, 16, 16, 10, 21, 3, 22, 12, 19, 17, 10, 9, 7, 8, 3, 1, 8, 2, 2, 5, 6, 6, 3, 1, 0, 1, 0, 0, 0]
+Novo F: 53, Time: 148.085, Total time: 2589.284
+Novo F: 79, Time: 0.011
+Novo F: 76, Time: 0.044
+Novo F: 74, Time: 0.091
+Novo F: 73, Time: 0.168
+Novo F: 71, Time: 0.191
+Novo F: 67, Time: 0.346
+Novo F: 66, Time: 0.518
+Novo F: 65, Time: 0.53
+Novo F: 63, Time: 0.803
+Novo F: 62, Time: 0.924
+Novo F: 59, Time: 1.121
+Novo F: 58, Time: 1.979
+Novo F: 57, Time: 2.078
+Novo F: 56, Time: 2.829
+Novo F: 54, Time: 3.38
+Novo F: 52, Time: 3.539
+Novo F: 51, Time: 4.675
+Novo F: 49, Time: 4.687
+Novo F: 48, Time: 6.229
+Novo F: 47, Time: 11.329
+Novo F: 46, Time: 15.497
+Novo F: 45, Time: 17.695
+Novo F: 44, Time: 19.996
+Novo F: 43, Time: 25.718
+Novo F: 41, Time: 33.475
+ Achei minimo local
+(64) [10, 30, 21, 23, 12, 35, 55, 47, 51, 14, 30, 39, 44, 13, 38, 19, 46, 28, 45, 1, 1, 17, 31, 16, 16, 4, 31, 14, 15, 0, 20, 2, 25, 25, 2, 9, 21, 3, 6, 17, 18, 11, 9, 7, 7, 10, 6, 11, 2, 11, 10, 4, 10, 6, 7, 0, 2, 6, 4, 4, 2, 1, 1, 0]
+Novo F: 51, Time: 143.664, Total time: 2732.949
+Novo F: 73, Time: 0.012
+Novo F: 71, Time: 0.023
+Novo F: 70, Time: 0.046
+Novo F: 68, Time: 0.091
+Novo F: 66, Time: 0.146
+Novo F: 63, Time: 0.181
+Novo F: 62, Time: 0.192
+Novo F: 61, Time: 0.436
+Novo F: 60, Time: 0.687
+Novo F: 59, Time: 1.042
+Novo F: 58, Time: 1.054
+Novo F: 56, Time: 1.065
+Novo F: 55, Time: 1.197
+Novo F: 54, Time: 1.363
+Novo F: 52, Time: 1.814
+Novo F: 51, Time: 1.837
+Novo F: 50, Time: 1.88
+Novo F: 49, Time: 2.452
+Novo F: 48, Time: 2.875
+Novo F: 47, Time: 3.175
+Novo F: 46, Time: 9.091
+Novo F: 45, Time: 9.879
+Novo F: 44, Time: 11.562
+ Achei minimo local
+(64) [47, 30, 60, 28, 49, 50, 40, 31, 37, 15, 30, 22, 27, 41, 12, 18, 6, 46, 27, 2, 11, 11, 25, 13, 39, 27, 4, 21, 28, 5, 13, 0, 26, 28, 15, 25, 18, 13, 20, 11, 9, 4, 8, 7, 15, 13, 9, 16, 7, 4, 13, 0, 1, 5, 3, 0, 5, 1, 1, 4, 2, 0, 0, 0]
+Novo F: 48, Time: 121.796, Total time: 2854.746
+Novo F: 81, Time: 0.011
+Novo F: 78, Time: 0.023
+Novo F: 74, Time: 0.183
+Novo F: 73, Time: 0.215
+Novo F: 72, Time: 0.227
+Novo F: 69, Time: 0.338
+Novo F: 67, Time: 0.35
+Novo F: 66, Time: 0.611
+Novo F: 63, Time: 0.623
+Novo F: 62, Time: 0.71
+Novo F: 61, Time: 0.765
+Novo F: 60, Time: 0.877
+Novo F: 58, Time: 1.308
+Novo F: 57, Time: 1.95
+Novo F: 56, Time: 2.071
+Novo F: 55, Time: 2.571
+Novo F: 54, Time: 2.583
+Novo F: 53, Time: 2.953
+Novo F: 52, Time: 3.302
+Novo F: 50, Time: 4.263
+Novo F: 49, Time: 6.629
+Novo F: 48, Time: 22.187
+ Achei minimo local
+(64) [15, 4, 10, 55, 37, 48, 27, 20, 19, 3, 4, 22, 28, 0, 36, 38, 45, 19, 22, 29, 30, 42, 29, 7, 19, 34, 6, 0, 33, 18, 10, 20, 27, 13, 16, 15, 20, 10, 23, 4, 5, 1, 18, 13, 18, 4, 10, 8, 13, 7, 8, 4, 9, 8, 5, 8, 3, 6, 5, 4, 3, 1, 1, 0]
+Novo F: 53, Time: 132.356, Total time: 2987.102
+Novo F: 83, Time: 0.012
+Novo F: 82, Time: 0.023
+Novo F: 80, Time: 0.035
+Novo F: 76, Time: 0.057
+Novo F: 75, Time: 0.101
+Novo F: 74, Time: 0.269
+Novo F: 73, Time: 0.368
+Novo F: 72, Time: 0.433
+Novo F: 70, Time: 0.652
+Novo F: 69, Time: 0.697
+Novo F: 68, Time: 0.94
+Novo F: 65, Time: 0.963
+Novo F: 63, Time: 1.006
+Novo F: 61, Time: 1.119
+Novo F: 60, Time: 1.152
+Novo F: 59, Time: 1.218
+Novo F: 58, Time: 1.24
+Novo F: 57, Time: 2.558
+Novo F: 55, Time: 3.404
+Novo F: 54, Time: 3.77
+Novo F: 53, Time: 4.102
+Novo F: 52, Time: 4.729
+Novo F: 51, Time: 5.319
+Novo F: 49, Time: 5.772
+Novo F: 48, Time: 8.051
+ Achei minimo local
+(64) [46, 26, 57, 38, 58, 48, 48, 52, 32, 11, 51, 42, 9, 29, 42, 21, 16, 39, 29, 24, 30, 31, 27, 19, 34, 37, 31, 13, 2, 27, 20, 3, 5, 15, 10, 7, 15, 26, 6, 6, 16, 13, 19, 19, 7, 9, 15, 12, 7, 4, 12, 11, 11, 6, 8, 3, 4, 4, 4, 2, 2, 1, 1, 0]
+Novo F: 51, Time: 118.14, Total time: 3105.243
+Novo F: 68, Time: 0.011
+Novo F: 64, Time: 0.035
+Novo F: 63, Time: 0.07
+Novo F: 62, Time: 0.286
+Novo F: 61, Time: 0.464
+Novo F: 60, Time: 0.53
+Novo F: 59, Time: 0.664
+Novo F: 58, Time: 0.859
+Novo F: 57, Time: 1.92
+Novo F: 56, Time: 5.081
+Novo F: 55, Time: 6.237
+Novo F: 54, Time: 6.797
+Novo F: 53, Time: 8.095
+Novo F: 52, Time: 13.276
+Novo F: 51, Time: 15.397
+Novo F: 50, Time: 19.203
+Novo F: 49, Time: 27.176
+Novo F: 47, Time: 27.342
+ Achei minimo local
+(64) [28, 51, 41, 3, 30, 31, 57, 20, 18, 21, 23, 22, 25, 34, 18, 8, 25, 3, 21, 32, 21, 13, 16, 33, 20, 0, 15, 9, 8, 18, 2, 18, 8, 5, 1, 7, 18, 3, 19, 7, 8, 10, 17, 5, 6, 7, 9, 5, 13, 1, 9, 5, 3, 3, 9, 8, 3, 0, 4, 1, 0, 1, 0, 0]
+Novo F: 47, Time: 137.372, Total time: 3242.616
+Novo F: 75, Time: 0.011
+Novo F: 72, Time: 0.023
+Novo F: 71, Time: 0.107
+Novo F: 68, Time: 0.369
+Novo F: 67, Time: 0.424
+Novo F: 66, Time: 0.435
+Novo F: 65, Time: 0.544
+Novo F: 63, Time: 0.733
+Novo F: 62, Time: 0.787
+Novo F: 59, Time: 1.044
+Novo F: 57, Time: 1.154
+Novo F: 55, Time: 1.544
+Novo F: 53, Time: 2.507
+Novo F: 52, Time: 2.55
+Novo F: 50, Time: 2.95
+Novo F: 49, Time: 3.351
+Novo F: 48, Time: 3.878
+Novo F: 47, Time: 4.674
+Novo F: 46, Time: 5.038
+Novo F: 45, Time: 13.711
+Novo F: 43, Time: 16.811
+Novo F: 42, Time: 30.124
+Novo F: 41, Time: 34.671
+Novo F: 40, Time: 41.44
+ Achei minimo local
+(64) [0, 24, 12, 24, 48, 57, 49, 32, 53, 21, 46, 1, 27, 14, 37, 3, 19, 9, 29, 19, 39, 19, 31, 34, 8, 4, 15, 31, 15, 10, 13, 0, 15, 4, 3, 23, 18, 22, 4, 9, 14, 1, 2, 4, 11, 6, 14, 11, 5, 12, 8, 7, 11, 8, 4, 5, 2, 5, 5, 0, 2, 1, 1, 0]
+Novo F: 53, Time: 151.64, Total time: 3394.258
+Novo F: 83, Time: 0.012
+Novo F: 81, Time: 0.068
+Novo F: 79, Time: 0.09
+Novo F: 77, Time: 0.102
+Novo F: 75, Time: 0.114
+Novo F: 74, Time: 0.179
+Novo F: 70, Time: 0.351
+Novo F: 69, Time: 0.486
+Novo F: 68, Time: 0.541
+Novo F: 67, Time: 0.595
+Novo F: 66, Time: 0.618
+Novo F: 65, Time: 0.63
+Novo F: 63, Time: 0.642
+Novo F: 61, Time: 0.884
+Novo F: 57, Time: 1.174
+Novo F: 56, Time: 1.186
+Novo F: 54, Time: 1.835
+Novo F: 53, Time: 2.735
+Novo F: 52, Time: 3.767
+Novo F: 51, Time: 3.864
+Novo F: 48, Time: 3.951
+Novo F: 47, Time: 4.107
+Novo F: 46, Time: 12.675
+Novo F: 45, Time: 13.151
+Novo F: 44, Time: 13.991
+Novo F: 43, Time: 15.024
+Novo F: 42, Time: 16.601
+Novo F: 41, Time: 22.953
+Novo F: 40, Time: 22.976
+Novo F: 38, Time: 25.627
+Novo F: 36, Time: 25.908
+ Achei minimo local
+(64) [33, 50, 0, 54, 24, 24, 15, 13, 12, 41, 11, 19, 12, 2, 26, 44, 3, 46, 16, 38, 35, 31, 29, 1, 23, 8, 13, 13, 35, 2, 10, 4, 7, 16, 0, 16, 21, 21, 9, 22, 14, 4, 14, 7, 2, 12, 16, 13, 5, 6, 3, 12, 0, 8, 1, 6, 3, 3, 1, 3, 1, 1, 1, 0]
+Novo F: 42, Time: 136.019, Total time: 3530.278
+Novo F: 74, Time: 0.011
+Novo F: 73, Time: 0.056
+Novo F: 71, Time: 0.101
+Novo F: 69, Time: 0.135
+Novo F: 68, Time: 0.29
+Novo F: 67, Time: 0.313
+Novo F: 66, Time: 0.597
+Novo F: 65, Time: 0.619
+Novo F: 63, Time: 0.752
+Novo F: 62, Time: 1.179
+Novo F: 61, Time: 1.267
+Novo F: 59, Time: 1.391
+Novo F: 58, Time: 1.413
+Novo F: 56, Time: 1.536
+Novo F: 55, Time: 2.457
+Novo F: 54, Time: 5.333
+Novo F: 53, Time: 12.49
+Novo F: 52, Time: 13.356
+Novo F: 51, Time: 13.557
+Novo F: 50, Time: 14.014
+Novo F: 49, Time: 15.486
+Novo F: 47, Time: 30.625
+ Achei minimo local
+(64) [21, 40, 25, 20, 17, 10, 28, 47, 33, 51, 6, 48, 34, 25, 44, 42, 43, 34, 40, 28, 23, 30, 12, 36, 30, 5, 20, 18, 3, 6, 17, 31, 19, 26, 27, 25, 22, 10, 6, 12, 7, 17, 13, 10, 11, 8, 11, 13, 5, 3, 3, 1, 9, 1, 2, 4, 7, 4, 0, 4, 3, 0, 1, 0]
+Novo F: 54, Time: 140.805, Total time: 3671.084
+Novo F: 74, Time: 0.012
+Novo F: 72, Time: 0.044
+Novo F: 71, Time: 0.066
+Novo F: 70, Time: 0.078
+Novo F: 68, Time: 0.121
+Novo F: 66, Time: 0.249
+Novo F: 65, Time: 0.348
+Novo F: 64, Time: 0.395
+Novo F: 63, Time: 0.944
+Novo F: 62, Time: 0.967
+Novo F: 61, Time: 1.118
+Novo F: 60, Time: 1.688
+Novo F: 57, Time: 1.755
+Novo F: 56, Time: 1.821
+Novo F: 55, Time: 2.115
+Novo F: 53, Time: 2.262
+Novo F: 52, Time: 2.694
+Novo F: 50, Time: 3.174
+Novo F: 48, Time: 3.854
+Novo F: 47, Time: 4.689
+Novo F: 46, Time: 5.606
+Novo F: 44, Time: 7.055
+Novo F: 43, Time: 7.712
+Novo F: 42, Time: 10.305
+ Achei minimo local
+(64) [23, 31, 3, 9, 11, 35, 0, 20, 11, 27, 5, 48, 44, 1, 41, 22, 37, 0, 43, 18, 25, 29, 18, 4, 29, 1, 4, 19, 12, 8, 16, 24, 7, 9, 9, 3, 13, 18, 21, 6, 12, 7, 5, 13, 9, 5, 14, 10, 12, 11, 3, 0, 2, 6, 9, 8, 0, 6, 1, 4, 2, 0, 1, 0]
+Novo F: 47, Time: 120.424, Total time: 3791.509
+Novo F: 80, Time: 0.011
+Novo F: 79, Time: 0.033
+Novo F: 78, Time: 0.045
+Novo F: 77, Time: 0.067
+Novo F: 75, Time: 0.079
+Novo F: 74, Time: 0.101
+Novo F: 73, Time: 0.145
+Novo F: 72, Time: 0.157
+Novo F: 65, Time: 0.168
+Novo F: 63, Time: 0.191
+Novo F: 62, Time: 0.727
+Novo F: 60, Time: 0.75
+Novo F: 57, Time: 0.962
+Novo F: 54, Time: 1.151
+Novo F: 53, Time: 2.267
+Novo F: 52, Time: 2.459
+Novo F: 51, Time: 2.545
+Novo F: 50, Time: 2.588
+Novo F: 49, Time: 2.622
+Novo F: 47, Time: 4.183
+ Achei minimo local
+(64) [18, 32, 48, 6, 59, 55, 19, 38, 27, 23, 4, 12, 43, 43, 34, 9, 31, 18, 33, 11, 26, 20, 5, 32, 13, 7, 2, 21, 26, 4, 10, 4, 27, 19, 25, 5, 10, 19, 16, 22, 1, 4, 18, 20, 14, 4, 11, 0, 14, 4, 3, 0, 11, 2, 7, 5, 6, 2, 4, 4, 3, 2, 1, 0]
+Novo F: 53, Time: 114.43, Total time: 3905.941
+Novo F: 79, Time: 0.012
+Novo F: 76, Time: 0.024
+Novo F: 74, Time: 0.088
+Novo F: 71, Time: 0.101
+Novo F: 66, Time: 0.201
+Novo F: 65, Time: 0.373
+Novo F: 64, Time: 0.451
+Novo F: 62, Time: 0.795
+Novo F: 60, Time: 0.818
+Novo F: 59, Time: 1.639
+Novo F: 58, Time: 1.795
+Novo F: 55, Time: 2.373
+Novo F: 54, Time: 2.417
+Novo F: 53, Time: 2.69
+Novo F: 52, Time: 2.765
+Novo F: 51, Time: 3.912
+Novo F: 50, Time: 4.155
+Novo F: 49, Time: 4.562
+Novo F: 48, Time: 4.605
+Novo F: 47, Time: 6.667
+Novo F: 46, Time: 15.752
+Novo F: 45, Time: 15.906
+ Achei minimo local
+(64) [0, 10, 35, 41, 52, 30, 48, 33, 51, 17, 32, 27, 29, 43, 46, 21, 27, 30, 26, 39, 31, 10, 4, 15, 36, 16, 11, 30, 4, 24, 7, 9, 22, 0, 19, 24, 0, 8, 20, 13, 4, 13, 21, 19, 12, 16, 3, 12, 6, 5, 4, 8, 3, 3, 6, 8, 3, 5, 1, 0, 3, 1, 0, 0]
+Novo F: 46, Time: 125.98, Total time: 4031.922
+Novo F: 70, Time: 0.012
+Novo F: 67, Time: 0.076
+Novo F: 66, Time: 0.109
+Novo F: 64, Time: 0.195
+Novo F: 63, Time: 0.27
+Novo F: 62, Time: 0.39
+Novo F: 60, Time: 0.659
+Novo F: 58, Time: 0.769
+Novo F: 57, Time: 1.21
+Novo F: 56, Time: 1.829
+Novo F: 55, Time: 2.312
+Novo F: 54, Time: 2.485
+Novo F: 50, Time: 3.207
+Novo F: 47, Time: 3.896
+Novo F: 44, Time: 4.913
+Novo F: 43, Time: 6.002
+Novo F: 41, Time: 10.029
+Novo F: 40, Time: 10.769
+Novo F: 39, Time: 10.99
+ Achei minimo local
+(64) [60, 15, 31, 3, 52, 34, 20, 9, 5, 14, 43, 29, 25, 44, 31, 12, 10, 34, 37, 42, 37, 38, 35, 4, 33, 16, 4, 20, 9, 16, 26, 19, 27, 10, 4, 7, 13, 6, 10, 22, 0, 16, 5, 8, 14, 10, 15, 11, 4, 12, 12, 6, 7, 0, 8, 1, 2, 0, 3, 0, 1, 0, 1, 0]
+Novo F: 39, Time: 121.007, Total time: 4152.93
+Novo F: 75, Time: 0.011
+Novo F: 73, Time: 0.153
+Novo F: 72, Time: 0.176
+Novo F: 71, Time: 0.426
+Novo F: 70, Time: 0.968
+Novo F: 69, Time: 1.064
+Novo F: 68, Time: 1.197
+Novo F: 67, Time: 1.43
+Novo F: 66, Time: 1.713
+Novo F: 65, Time: 1.992
+Novo F: 64, Time: 2.289
+Novo F: 63, Time: 2.953
+Novo F: 62, Time: 3.417
+Novo F: 61, Time: 4.68
+Novo F: 60, Time: 6.559
+Novo F: 59, Time: 6.747
+Novo F: 58, Time: 7.359
+Novo F: 57, Time: 7.402
+Novo F: 56, Time: 8.214
+Novo F: 55, Time: 8.237
+Novo F: 53, Time: 8.52
+Novo F: 52, Time: 10.009
+Novo F: 51, Time: 10.936
+ Achei minimo local
+(64) [52, 12, 4, 31, 39, 20, 25, 16, 16, 33, 1, 34, 38, 1, 34, 17, 33, 12, 18, 6, 43, 31, 39, 14, 9, 28, 30, 24, 15, 29, 22, 15, 6, 10, 21, 22, 26, 22, 3, 18, 21, 16, 11, 6, 19, 16, 14, 12, 3, 8, 10, 2, 5, 7, 5, 4, 7, 0, 3, 1, 3, 2, 0, 0]
+Novo F: 54, Time: 121.072, Total time: 4274.003
+Novo F: 83, Time: 0.012
+Novo F: 82, Time: 0.023
+Novo F: 78, Time: 0.034
+Novo F: 75, Time: 0.046
+Novo F: 70, Time: 0.058
+Novo F: 69, Time: 0.101
+Novo F: 66, Time: 0.255
+Novo F: 65, Time: 0.311
+Novo F: 64, Time: 0.443
+Novo F: 63, Time: 0.498
+Novo F: 61, Time: 0.752
+Novo F: 60, Time: 1.268
+Novo F: 59, Time: 1.745
+Novo F: 58, Time: 1.923
+Novo F: 57, Time: 2.468
+Novo F: 56, Time: 3.028
+Novo F: 55, Time: 3.568
+Novo F: 53, Time: 4.44
+Novo F: 51, Time: 5.255
+Novo F: 50, Time: 6.301
+Novo F: 49, Time: 11.156
+Novo F: 48, Time: 11.905
+Novo F: 46, Time: 19.284
+ Achei minimo local
+(64) [28, 43, 4, 7, 59, 39, 44, 21, 43, 14, 18, 40, 42, 44, 26, 9, 47, 5, 40, 0, 27, 19, 32, 3, 22, 18, 16, 4, 7, 33, 27, 7, 10, 17, 2, 2, 4, 16, 24, 11, 5, 19, 0, 4, 15, 2, 10, 15, 3, 9, 11, 8, 11, 8, 6, 0, 1, 6, 2, 3, 2, 1, 1, 0]
+Novo F: 50, Time: 129.419, Total time: 4403.423
+Novo F: 69, Time: 0.014
+Novo F: 68, Time: 0.067
+Novo F: 66, Time: 0.264
+Novo F: 65, Time: 0.507
+Novo F: 64, Time: 0.75
+Novo F: 63, Time: 0.817
+Novo F: 62, Time: 0.951
+Novo F: 61, Time: 1.863
+Novo F: 60, Time: 1.886
+Novo F: 59, Time: 2.33
+Novo F: 55, Time: 2.407
+Novo F: 53, Time: 2.574
+Novo F: 52, Time: 3.097
+Novo F: 51, Time: 3.698
+Novo F: 49, Time: 3.731
+Novo F: 47, Time: 4.487
+Novo F: 46, Time: 13.824
+ Achei minimo local
+(64) [29, 15, 51, 12, 18, 58, 32, 22, 34, 49, 29, 23, 41, 36, 31, 16, 9, 15, 17, 6, 34, 0, 25, 17, 6, 37, 2, 17, 5, 28, 17, 0, 9, 19, 12, 16, 26, 26, 8, 11, 20, 15, 12, 19, 15, 5, 7, 4, 9, 7, 11, 7, 3, 10, 4, 2, 3, 2, 1, 3, 0, 0, 1, 0]
+Novo F: 46, Time: 123.942, Total time: 4527.366
+Novo F: 71, Time: 0.012
+Novo F: 68, Time: 0.068
+Novo F: 67, Time: 0.256
+Novo F: 65, Time: 0.279
+Novo F: 62, Time: 0.403
+Novo F: 61, Time: 0.493
+Novo F: 60, Time: 0.568
+Novo F: 59, Time: 0.58
+Novo F: 58, Time: 0.624
+Novo F: 57, Time: 0.857
+Novo F: 56, Time: 0.968
+Novo F: 53, Time: 1.123
+Novo F: 52, Time: 2.507
+Novo F: 51, Time: 3.257
+Novo F: 50, Time: 3.772
+Novo F: 48, Time: 3.966
+Novo F: 47, Time: 6.112
+Novo F: 46, Time: 7.258
+Novo F: 45, Time: 8.646
+ Achei minimo local
+(64) [17, 46, 25, 7, 36, 47, 1, 54, 8, 15, 33, 52, 45, 26, 36, 18, 16, 30, 17, 21, 27, 33, 17, 21, 0, 5, 11, 30, 14, 2, 24, 25, 3, 1, 14, 24, 5, 7, 9, 14, 3, 13, 18, 13, 4, 9, 8, 2, 5, 7, 8, 5, 8, 5, 4, 0, 3, 0, 3, 2, 3, 1, 0, 0]
+Novo F: 51, Time: 118.827, Total time: 4646.194
+Novo F: 86, Time: 0.012
+Novo F: 82, Time: 0.023
+Novo F: 80, Time: 0.056
+Novo F: 79, Time: 0.068
+Novo F: 75, Time: 0.101
+Novo F: 74, Time: 0.211
+Novo F: 73, Time: 0.268
+Novo F: 72, Time: 0.323
+Novo F: 71, Time: 0.609
+Novo F: 67, Time: 0.696
+Novo F: 66, Time: 0.885
+Novo F: 64, Time: 0.962
+Novo F: 63, Time: 1.044
+Novo F: 61, Time: 1.056
+Novo F: 59, Time: 1.317
+Novo F: 58, Time: 2.251
+Novo F: 57, Time: 2.317
+Novo F: 55, Time: 7.017
+Novo F: 54, Time: 7.547
+Novo F: 53, Time: 7.633
+Novo F: 52, Time: 7.827
+Novo F: 51, Time: 8.461
+Novo F: 50, Time: 8.55
+Novo F: 49, Time: 9.345
+Novo F: 48, Time: 10.177
+Novo F: 47, Time: 10.589
+Novo F: 46, Time: 13.857
+Novo F: 45, Time: 14.19
+Novo F: 44, Time: 20.557
+ Achei minimo local
+(64) [20, 37, 55, 39, 6, 12, 49, 23, 5, 8, 21, 4, 13, 15, 24, 44, 19, 9, 21, 34, 27, 26, 0, 15, 27, 9, 19, 15, 4, 31, 1, 20, 13, 4, 15, 10, 5, 5, 2, 16, 13, 7, 15, 16, 13, 4, 2, 10, 8, 4, 6, 12, 7, 10, 6, 8, 0, 0, 2, 2, 0, 0, 1, 0]
+Novo F: 46, Time: 130.212, Total time: 4776.406
+Novo F: 78, Time: 0.012
+Novo F: 77, Time: 0.025
+Novo F: 76, Time: 0.036
+Novo F: 74, Time: 0.072
+Novo F: 73, Time: 0.15
+Novo F: 71, Time: 0.253
+Novo F: 69, Time: 0.286
+Novo F: 68, Time: 0.309
+Novo F: 67, Time: 0.363
+Novo F: 65, Time: 0.569
+Novo F: 62, Time: 0.713
+Novo F: 61, Time: 0.769
+Novo F: 60, Time: 0.869
+Novo F: 59, Time: 0.992
+Novo F: 58, Time: 1.015
+Novo F: 57, Time: 1.396
+Novo F: 56, Time: 1.959
+Novo F: 54, Time: 2.193
+Novo F: 52, Time: 2.37
+Novo F: 51, Time: 2.955
+Novo F: 49, Time: 3.087
+Novo F: 48, Time: 3.486
+Novo F: 45, Time: 3.54
+Novo F: 44, Time: 4.08
+Novo F: 42, Time: 4.658
+Novo F: 41, Time: 5.009
+Novo F: 38, Time: 5.947
+Novo F: 37, Time: 13.458
+Novo F: 35, Time: 13.726
+Novo F: 34, Time: 14.384
+Novo F: 33, Time: 21.23
+ Achei minimo local
+(64) [57, 28, 22, 15, 3, 31, 45, 10, 53, 16, 31, 50, 6, 42, 38, 20, 5, 24, 33, 35, 41, 17, 23, 28, 18, 7, 13, 31, 18, 10, 14, 7, 25, 19, 20, 27, 10, 8, 14, 22, 3, 16, 11, 16, 1, 11, 6, 15, 0, 3, 6, 3, 11, 1, 8, 2, 5, 6, 0, 2, 0, 2, 1, 0]0: 571: 282: 223: 154: 35: 316: 457: 108: 539: 1610: 3111: 5012: 613: 4214: 3815: 2016: 517: 2418: 3319: 3520: 4121: 1722: 2323: 2824: 1825: 726: 1327: 3128: 1829: 1030: 1431: 732: 2533: 1934: 2035: 2736: 1037: 838: 1439: 2240: 341: 1642: 1143: 1644: 145: 1146: 647: 1548: 049: 350: 651: 352: 1153: 154: 855: 256: 557: 658: 059: 260: 061: 262: 163: 0length: 64__proto__: Array(0)
+Novo F: 36, Time: 131.278, Total time: 4907.685
+Novo F: 81, Time: 0.013
+Novo F: 78, Time: 0.025
+Novo F: 77, Time: 0.169
+Novo F: 76, Time: 0.18
+Novo F: 75, Time: 0.215
+Novo F: 71, Time: 0.305
+Novo F: 70, Time: 0.318
+Novo F: 68, Time: 0.329
+Novo F: 67, Time: 0.362
+Novo F: 64, Time: 0.611
+Novo F: 63, Time: 0.633
+Novo F: 58, Time: 0.849
+Novo F: 57, Time: 1.016
+Novo F: 55, Time: 1.049
+Novo F: 54, Time: 1.366
+Novo F: 53, Time: 1.939
+Novo F: 52, Time: 2.506
+Novo F: 51, Time: 3.782
+Novo F: 50, Time: 3.9
+Novo F: 49, Time: 4.428
+Novo F: 48, Time: 5.616
+Novo F: 47, Time: 5.923
+Novo F: 45, Time: 6.99
+Novo F: 43, Time: 7.794
+Novo F: 42, Time: 9.539
+ Achei minimo local
+(64) [17, 19, 49, 32, 24, 0, 10, 22, 39, 31, 9, 50, 43, 24, 31, 10, 8, 19, 40, 15, 16, 14, 6, 30, 27, 1, 4, 26, 10, 13, 27, 19, 16, 10, 5, 25, 16, 1, 6, 8, 17, 20, 10, 10, 17, 4, 8, 10, 5, 5, 12, 9, 10, 5, 6, 7, 2, 0, 4, 2, 0, 0, 0, 0]
+Novo F: 47, Time: 260.931, Total time: 5168.617
+Novo F: 78, Time: 0.012
+Novo F: 77, Time: 0.08
+Novo F: 76, Time: 0.155
+Novo F: 75, Time: 0.177
+Novo F: 74, Time: 0.275
+Novo F: 73, Time: 0.287
+Novo F: 72, Time: 0.342
+Novo F: 71, Time: 0.409
+Novo F: 70, Time: 0.476
+Novo F: 69, Time: 0.694
+Novo F: 68, Time: 0.737
+Novo F: 67, Time: 0.836
+Novo F: 66, Time: 1.036
+Novo F: 64, Time: 1.13
+Novo F: 63, Time: 1.309
+Novo F: 61, Time: 1.83
+Novo F: 60, Time: 1.976
+Novo F: 59, Time: 2.22
+Novo F: 58, Time: 3.725
+Novo F: 57, Time: 6.23
+Novo F: 56, Time: 8.564
+Novo F: 55, Time: 9.025
+Novo F: 54, Time: 11.696
+Novo F: 53, Time: 11.741
+ Achei minimo local
+(64) [28, 1, 46, 55, 9, 45, 11, 40, 44, 29, 19, 22, 14, 29, 39, 4, 1, 10, 15, 27, 19, 4, 40, 2, 39, 12, 25, 5, 26, 7, 30, 30, 28, 18, 0, 1, 26, 4, 14, 2, 21, 22, 18, 19, 8, 3, 15, 8, 4, 2, 10, 0, 8, 10, 9, 3, 6, 5, 4, 0, 1, 1, 1, 0]
+Novo F: 66, Time: 121.939, Total time: 5290.557
+Novo F: 85, Time: 0.011
+Novo F: 84, Time: 0.022
+Novo F: 83, Time: 0.067
+Novo F: 82, Time: 0.08
+Novo F: 80, Time: 0.102
+Novo F: 79, Time: 0.114
+Novo F: 75, Time: 0.126
+Novo F: 71, Time: 0.244
+Novo F: 70, Time: 0.266
+Novo F: 69, Time: 0.42
+Novo F: 68, Time: 0.55
+Novo F: 67, Time: 0.583
+Novo F: 66, Time: 0.649
+Novo F: 64, Time: 0.705
+Novo F: 63, Time: 0.884
+Novo F: 62, Time: 1.005
+Novo F: 61, Time: 1.295
+Novo F: 60, Time: 1.781
+Novo F: 59, Time: 2.011
+Novo F: 58, Time: 2.067
+Novo F: 57, Time: 2.234
+Novo F: 56, Time: 2.628
+Novo F: 55, Time: 3.055
+Novo F: 54, Time: 3.089
+Novo F: 53, Time: 3.935
+Novo F: 52, Time: 3.957
+Novo F: 51, Time: 4.601
+Novo F: 50, Time: 4.968
+Novo F: 49, Time: 5.372
+Novo F: 47, Time: 6.438
+Novo F: 46, Time: 6.967
+Novo F: 45, Time: 7.529
+Novo F: 44, Time: 8.278
+Novo F: 43, Time: 17.923
+Novo F: 42, Time: 28.989
+ Achei minimo local
+(64) [30, 39, 43, 40, 12, 45, 49, 18, 24, 15, 52, 4, 28, 36, 21, 46, 5, 18, 2, 22, 42, 2, 10, 7, 36, 31, 14, 1, 32, 29, 3, 22, 11, 18, 12, 6, 9, 12, 20, 9, 6, 3, 16, 11, 4, 4, 6, 4, 3, 9, 8, 10, 1, 4, 6, 3, 6, 5, 0, 2, 3, 0, 1, 0]
+Novo F: 44, Time: 139.253, Total time: 5429.811
+Novo F: 88, Time: 0.014
+Novo F: 86, Time: 0.038
+Novo F: 83, Time: 0.095
+Novo F: 81, Time: 0.118
+Novo F: 79, Time: 0.14
+Novo F: 77, Time: 0.152
+Novo F: 75, Time: 0.185
+Novo F: 74, Time: 0.49
+Novo F: 73, Time: 0.656
+Novo F: 72, Time: 0.822
+Novo F: 68, Time: 0.834
+Novo F: 67, Time: 0.902
+Novo F: 66, Time: 1.066
+Novo F: 64, Time: 1.284
+Novo F: 62, Time: 1.382
+Novo F: 60, Time: 1.462
+Novo F: 59, Time: 3.083
+Novo F: 58, Time: 3.161
+Novo F: 57, Time: 3.999
+Novo F: 56, Time: 5.862
+Novo F: 55, Time: 7.323
+Novo F: 52, Time: 7.596
+Novo F: 51, Time: 7.629
+Novo F: 50, Time: 13.449
+ Achei minimo local
+(64) [16, 11, 52, 27, 42, 35, 27, 0, 2, 36, 40, 33, 0, 6, 33, 17, 7, 19, 2, 21, 38, 4, 34, 23, 38, 13, 13, 30, 15, 22, 16, 11, 10, 20, 22, 21, 22, 18, 25, 19, 17, 3, 6, 9, 7, 8, 4, 15, 3, 3, 3, 9, 2, 8, 4, 8, 0, 3, 1, 4, 0, 0, 0, 0]
+Novo F: 60, Time: 123.658, Total time: 5553.47
+Novo F: 77, Time: 0.012
+Novo F: 76, Time: 0.067
+Novo F: 75, Time: 0.078
+Novo F: 71, Time: 0.122
+Novo F: 69, Time: 0.155
+Novo F: 68, Time: 0.251
+Novo F: 66, Time: 0.428
+Novo F: 65, Time: 0.472
+Novo F: 64, Time: 0.581
+Novo F: 63, Time: 0.768
+Novo F: 60, Time: 0.801
+Novo F: 59, Time: 0.922
+Novo F: 58, Time: 1.021
+Novo F: 57, Time: 1.289
+Novo F: 56, Time: 1.455
+Novo F: 54, Time: 1.566
+Novo F: 53, Time: 2.569
+Novo F: 51, Time: 2.768
+Novo F: 50, Time: 4.35
+Novo F: 49, Time: 4.405
+Novo F: 47, Time: 4.828
+Novo F: 45, Time: 4.872
+Novo F: 43, Time: 5.018
+Novo F: 42, Time: 8.167
+Novo F: 41, Time: 9.395
+Novo F: 40, Time: 28.597
+ Achei minimo local
+(64) [53, 47, 8, 57, 25, 46, 0, 11, 21, 50, 11, 40, 28, 6, 34, 22, 10, 29, 2, 37, 27, 15, 8, 17, 13, 31, 34, 27, 24, 30, 10, 27, 30, 1, 0, 8, 2, 21, 10, 14, 4, 8, 5, 18, 7, 13, 12, 15, 2, 4, 11, 3, 6, 0, 2, 4, 7, 4, 2, 0, 1, 0, 1, 0]
+Novo F: 48, Time: 138.775, Total time: 5692.246
+Novo F: 77, Time: 0.012
+Novo F: 75, Time: 0.023
+Novo F: 74, Time: 0.035
+Novo F: 73, Time: 0.047
+Novo F: 71, Time: 0.08
+Novo F: 70, Time: 0.169
+Novo F: 69, Time: 0.312
+Novo F: 68, Time: 0.498
+Novo F: 67, Time: 0.51
+Novo F: 65, Time: 0.532
+Novo F: 63, Time: 0.554
+Novo F: 62, Time: 0.598
+Novo F: 60, Time: 0.817
+Novo F: 57, Time: 0.829
+Novo F: 56, Time: 1.198
+Novo F: 53, Time: 1.231
+Novo F: 52, Time: 1.34
+Novo F: 51, Time: 2.897
+Novo F: 50, Time: 2.963
+Novo F: 49, Time: 6.166
+Novo F: 48, Time: 7.279
+Novo F: 47, Time: 9.128
+Novo F: 46, Time: 9.262
+Novo F: 45, Time: 9.624
+ Achei minimo local
+(64) [26, 60, 5, 1, 27, 26, 8, 20, 5, 17, 0, 3, 35, 37, 11, 48, 39, 8, 29, 14, 42, 24, 34, 15, 1, 9, 23, 4, 34, 0, 32, 28, 31, 29, 24, 2, 3, 4, 11, 8, 14, 7, 18, 14, 4, 12, 6, 4, 10, 1, 3, 0, 7, 1, 9, 4, 7, 2, 5, 0, 0, 1, 0, 0]
+Novo F: 47, Time: 119.664, Total time: 5811.91
+Novo F: 82, Time: 0.012
+Novo F: 77, Time: 0.024
+Novo F: 75, Time: 0.301
+Novo F: 73, Time: 0.345
+Novo F: 69, Time: 0.379
+Novo F: 68, Time: 0.5
+Novo F: 66, Time: 0.761
+Novo F: 65, Time: 1.018
+Novo F: 64, Time: 1.174
+Novo F: 63, Time: 1.186
+Novo F: 61, Time: 1.23
+Novo F: 60, Time: 1.441
+Novo F: 59, Time: 1.518
+Novo F: 57, Time: 1.53
+Novo F: 56, Time: 5.217
+Novo F: 55, Time: 5.418
+Novo F: 54, Time: 7.474
+Novo F: 53, Time: 8.179
+Novo F: 51, Time: 8.512
+Novo F: 50, Time: 10.496
+Novo F: 47, Time: 13.141
+ Achei minimo local
+(64) [10, 19, 30, 52, 44, 4, 18, 16, 51, 37, 22, 12, 31, 38, 45, 7, 24, 0, 13, 5, 32, 20, 27, 38, 3, 0, 26, 13, 13, 23, 8, 26, 3, 3, 13, 2, 0, 22, 11, 23, 12, 2, 7, 16, 11, 18, 3, 6, 13, 10, 13, 2, 10, 7, 2, 6, 5, 4, 2, 1, 3, 2, 0, 0]
+Novo F: 49, Time: 123.131, Total time: 5935.042
+Novo F: 78, Time: 0.011
+Novo F: 77, Time: 0.044
+Novo F: 75, Time: 0.143
+Novo F: 74, Time: 0.186
+Novo F: 70, Time: 0.209
+Novo F: 69, Time: 0.231
+Novo F: 68, Time: 0.318
+Novo F: 66, Time: 0.351
+Novo F: 64, Time: 0.541
+Novo F: 63, Time: 1.243
+Novo F: 62, Time: 1.396
+Novo F: 61, Time: 1.452
+Novo F: 60, Time: 1.474
+Novo F: 59, Time: 1.68
+Novo F: 57, Time: 1.735
+Novo F: 56, Time: 2.992
+Novo F: 55, Time: 3.619
+Novo F: 54, Time: 3.925
+Novo F: 52, Time: 5.109
+Novo F: 51, Time: 5.195
+Novo F: 50, Time: 6.413
+Novo F: 49, Time: 6.913
+Novo F: 48, Time: 7.929
+Novo F: 47, Time: 26.629
+Novo F: 46, Time: 38.162
+Novo F: 45, Time: 42.268
+ Achei minimo local
+(64) [28, 34, 45, 34, 20, 46, 39, 17, 17, 45, 0, 37, 24, 21, 10, 22, 31, 5, 44, 25, 24, 1, 0, 34, 26, 9, 7, 26, 4, 11, 25, 23, 11, 0, 17, 7, 23, 16, 5, 3, 10, 0, 4, 0, 15, 9, 7, 15, 12, 0, 12, 9, 6, 2, 5, 4, 4, 1, 2, 2, 2, 0, 1, 0]
+Novo F: 53, Time: 152.438, Total time: 6087.48
+Novo F: 82, Time: 0.011
+Novo F: 77, Time: 0.032
+Novo F: 74, Time: 0.089
+Novo F: 72, Time: 0.122
+Novo F: 69, Time: 0.134
+Novo F: 68, Time: 0.167
+Novo F: 66, Time: 0.189
+Novo F: 65, Time: 0.222
+Novo F: 64, Time: 0.234
+Novo F: 63, Time: 0.445
+Novo F: 62, Time: 0.589
+Novo F: 58, Time: 0.601
+Novo F: 57, Time: 0.874
+Novo F: 56, Time: 0.939
+Novo F: 55, Time: 1.167
+Novo F: 54, Time: 2.013
+Novo F: 52, Time: 2.301
+Novo F: 51, Time: 3.234
+Novo F: 50, Time: 3.955
+Novo F: 48, Time: 5.901
+Novo F: 47, Time: 7.229
+Novo F: 46, Time: 9.817
+Novo F: 45, Time: 10.834
+ Achei minimo local
+(64) [24, 13, 28, 56, 32, 48, 11, 49, 4, 20, 44, 5, 48, 35, 27, 25, 33, 27, 36, 20, 5, 37, 16, 38, 31, 9, 28, 16, 25, 19, 23, 28, 0, 5, 9, 25, 22, 15, 6, 12, 23, 15, 7, 2, 8, 7, 9, 1, 5, 7, 10, 8, 1, 4, 3, 5, 2, 5, 3, 1, 0, 0, 0, 0]
+Novo F: 45, Time: 121.04, Total time: 6208.521
+Novo F: 80, Time: 0.011
+Novo F: 78, Time: 0.033
+Novo F: 75, Time: 0.076
+Novo F: 72, Time: 0.279
+Novo F: 71, Time: 0.29
+Novo F: 70, Time: 2.302
+Novo F: 69, Time: 2.345
+Novo F: 68, Time: 3.057
+Novo F: 67, Time: 3.584
+Novo F: 66, Time: 3.617
+Novo F: 64, Time: 5.641
+Novo F: 63, Time: 5.653
+Novo F: 61, Time: 6.783
+Novo F: 60, Time: 11.161
+Novo F: 58, Time: 12.088
+Novo F: 57, Time: 13.794
+Novo F: 56, Time: 14.34
+Novo F: 55, Time: 14.562
+Novo F: 53, Time: 16.54
+ Achei minimo local
+(64) [12, 45, 0, 37, 29, 22, 13, 45, 50, 9, 17, 47, 28, 35, 39, 48, 23, 25, 0, 4, 18, 0, 38, 16, 25, 35, 25, 31, 12, 33, 19, 30, 9, 20, 17, 24, 20, 10, 2, 13, 18, 14, 0, 19, 12, 5, 12, 11, 12, 1, 12, 2, 2, 6, 7, 8, 2, 1, 0, 0, 2, 1, 0, 0]
+Novo F: 60, Time: 126.592, Total time: 6335.115
+Novo F: 87, Time: 0.011
+Novo F: 86, Time: 0.022
+Novo F: 82, Time: 0.034
+Novo F: 81, Time: 0.09
+Novo F: 80, Time: 0.123
+Novo F: 79, Time: 0.135
+Novo F: 75, Time: 0.212
+Novo F: 74, Time: 0.323
+Novo F: 71, Time: 0.467
+Novo F: 70, Time: 0.479
+Novo F: 69, Time: 0.663
+Novo F: 68, Time: 0.917
+Novo F: 67, Time: 0.95
+Novo F: 66, Time: 1.089
+Novo F: 64, Time: 1.112
+Novo F: 63, Time: 1.187
+Novo F: 62, Time: 1.329
+Novo F: 61, Time: 1.396
+Novo F: 60, Time: 1.429
+Novo F: 59, Time: 1.484
+Novo F: 57, Time: 1.813
+Novo F: 55, Time: 1.966
+Novo F: 54, Time: 2.179
+Novo F: 53, Time: 2.3
+Novo F: 52, Time: 2.379
+Novo F: 51, Time: 2.402
+Novo F: 49, Time: 2.699
+Novo F: 48, Time: 2.733
+Novo F: 46, Time: 2.833
+Novo F: 45, Time: 3.44
+Novo F: 44, Time: 5.946
+Novo F: 43, Time: 6.709
+Novo F: 42, Time: 8.5
+Novo F: 41, Time: 8.512
+ Achei minimo local
+(64) [45, 53, 36, 31, 9, 1, 30, 51, 27, 6, 45, 33, 32, 34, 18, 37, 41, 30, 1, 39, 10, 20, 20, 19, 6, 28, 21, 12, 34, 19, 20, 31, 26, 15, 8, 5, 2, 11, 8, 15, 5, 0, 10, 9, 2, 17, 4, 14, 10, 10, 11, 8, 7, 2, 5, 1, 1, 1, 1, 0, 2, 0, 0, 0]
+Novo F: 45, Time: 118.532, Total time: 6453.648
+Novo F: 82, Time: 0.037
+Novo F: 77, Time: 0.1
+Novo F: 76, Time: 0.39
+Novo F: 75, Time: 0.549
+Novo F: 74, Time: 0.561
+Novo F: 73, Time: 0.572
+Novo F: 72, Time: 0.636
+Novo F: 71, Time: 0.647
+Novo F: 68, Time: 0.731
+Novo F: 66, Time: 0.745
+Novo F: 63, Time: 1.257
+Novo F: 62, Time: 1.356
+Novo F: 61, Time: 1.389
+Novo F: 59, Time: 1.443
+Novo F: 58, Time: 2.145
+Novo F: 57, Time: 5.525
+Novo F: 55, Time: 10.472
+ Achei minimo local
+(64) [24, 11, 49, 49, 54, 3, 30, 51, 24, 33, 37, 48, 6, 44, 14, 0, 9, 11, 13, 21, 16, 11, 27, 16, 36, 22, 11, 11, 21, 8, 8, 28, 1, 4, 27, 23, 22, 3, 1, 1, 0, 20, 17, 14, 15, 2, 16, 6, 7, 8, 8, 1, 4, 6, 9, 1, 6, 6, 3, 2, 1, 1, 1, 0]
+Novo F: 57, Time: 120.547, Total time: 6574.195
+Novo F: 77, Time: 0.013
+Novo F: 76, Time: 0.09
+Novo F: 74, Time: 0.112
+Novo F: 71, Time: 0.157
+Novo F: 70, Time: 0.189
+Novo F: 67, Time: 0.3
+Novo F: 63, Time: 0.345
+Novo F: 61, Time: 0.563
+Novo F: 60, Time: 0.585
+Novo F: 58, Time: 0.751
+Novo F: 57, Time: 1.812
+Novo F: 56, Time: 1.88
+Novo F: 55, Time: 2.119
+Novo F: 53, Time: 2.197
+Novo F: 52, Time: 2.874
+Novo F: 51, Time: 3.279
+Novo F: 50, Time: 4.506
+Novo F: 49, Time: 6.007
+Novo F: 48, Time: 6.973
+Novo F: 47, Time: 15.762
+ Achei minimo local
+(64) [38, 13, 48, 55, 11, 29, 3, 10, 46, 18, 25, 12, 8, 2, 26, 44, 37, 6, 40, 22, 9, 29, 4, 19, 32, 12, 3, 22, 2, 21, 11, 6, 8, 17, 21, 8, 23, 24, 25, 16, 14, 10, 19, 6, 14, 7, 5, 15, 3, 4, 6, 1, 3, 7, 2, 6, 3, 2, 0, 1, 0, 2, 1, 0]
+Novo F: 47, Time: 126.019, Total time: 6700.215
+Novo F: 79, Time: 0.011
+Novo F: 76, Time: 0.034
+Novo F: 74, Time: 0.045
+Novo F: 71, Time: 0.134
+Novo F: 70, Time: 0.146
+Novo F: 67, Time: 0.169
+Novo F: 66, Time: 0.191
+Novo F: 65, Time: 0.302
+Novo F: 64, Time: 0.314
+Novo F: 62, Time: 0.458
+Novo F: 60, Time: 0.48
+Novo F: 59, Time: 0.974
+Novo F: 58, Time: 1.137
+Novo F: 57, Time: 1.813
+Novo F: 56, Time: 3.051
+Novo F: 55, Time: 3.296
+Novo F: 54, Time: 3.508
+Novo F: 53, Time: 3.729
+Novo F: 52, Time: 3.805
+Novo F: 50, Time: 4.258
+Novo F: 49, Time: 18.458
+ Achei minimo local
+(64) [6, 15, 56, 50, 28, 13, 40, 2, 45, 22, 13, 37, 51, 6, 17, 38, 30, 21, 30, 17, 42, 18, 16, 5, 34, 38, 15, 28, 17, 5, 26, 16, 4, 22, 6, 6, 13, 11, 7, 6, 14, 19, 18, 19, 3, 10, 2, 5, 0, 1, 11, 2, 2, 10, 3, 7, 6, 5, 5, 2, 0, 0, 1, 0]
+Novo F: 50, Time: 128.525, Total time: 6828.741
+Novo F: 75, Time: 0.014
+Novo F: 74, Time: 0.036
+Novo F: 70, Time: 0.069
+Novo F: 69, Time: 0.081
+Novo F: 66, Time: 0.124
+Novo F: 65, Time: 0.19
+Novo F: 63, Time: 0.312
+Novo F: 61, Time: 0.38
+Novo F: 60, Time: 0.447
+Novo F: 59, Time: 0.523
+Novo F: 58, Time: 0.675
+Novo F: 57, Time: 0.88
+Novo F: 56, Time: 1.224
+Novo F: 55, Time: 1.664
+Novo F: 54, Time: 1.741
+Novo F: 53, Time: 1.817
+Novo F: 52, Time: 2.083
+Novo F: 51, Time: 2.84
+Novo F: 50, Time: 3.201
+Novo F: 49, Time: 3.234
+Novo F: 48, Time: 3.423
+Novo F: 47, Time: 3.457
+Novo F: 46, Time: 3.567
+Novo F: 45, Time: 3.935
+Novo F: 44, Time: 4.257
+Novo F: 43, Time: 4.424
+Novo F: 42, Time: 13.747
+ Achei minimo local
+(64) [15, 35, 29, 26, 54, 19, 37, 34, 11, 15, 10, 26, 17, 20, 44, 39, 47, 20, 32, 34, 15, 1, 16, 37, 2, 8, 15, 28, 25, 5, 5, 18, 23, 3, 23, 11, 6, 21, 10, 4, 18, 5, 16, 5, 18, 8, 8, 0, 2, 10, 9, 1, 1, 1, 7, 3, 5, 2, 1, 3, 2, 0, 0, 0]
+Novo F: 42, Time: 123.815, Total time: 6952.557
+Novo F: 69, Time: 0.014
+Novo F: 67, Time: 0.101
+Novo F: 65, Time: 0.178
+Novo F: 64, Time: 0.2
+Novo F: 63, Time: 0.212
+Novo F: 60, Time: 0.255
+Novo F: 59, Time: 0.573
+Novo F: 58, Time: 1.117
+Novo F: 57, Time: 1.195
+Novo F: 56, Time: 1.4
+Novo F: 55, Time: 1.794
+Novo F: 54, Time: 1.95
+Novo F: 53, Time: 2.395
+Novo F: 52, Time: 2.449
+Novo F: 51, Time: 2.462
+Novo F: 50, Time: 2.583
+Novo F: 49, Time: 2.763
+Novo F: 48, Time: 2.883
+Novo F: 47, Time: 6.807
+Novo F: 46, Time: 7.017
+Novo F: 45, Time: 7.645
+Novo F: 44, Time: 10.083
+Novo F: 43, Time: 20.328
+Novo F: 42, Time: 24.795
+ Achei minimo local
+(64) [45, 16, 4, 8, 22, 1, 30, 46, 30, 43, 32, 21, 46, 6, 31, 11, 14, 2, 41, 12, 3, 20, 0, 34, 4, 7, 22, 33, 13, 5, 31, 8, 17, 24, 2, 25, 18, 11, 16, 5, 2, 18, 10, 16, 7, 4, 2, 15, 12, 8, 8, 4, 0, 2, 2, 4, 7, 1, 1, 4, 1, 1, 1, 0]
+Novo F: 45, Time: 134.918, Total time: 7087.476
+Novo F: 70, Time: 0.011
+Novo F: 69, Time: 0.034
+Novo F: 68, Time: 0.1
+Novo F: 67, Time: 0.125
+Novo F: 64, Time: 0.463
+Novo F: 63, Time: 0.496
+Novo F: 62, Time: 0.55
+Novo F: 60, Time: 0.609
+Novo F: 59, Time: 1.025
+Novo F: 58, Time: 1.092
+Novo F: 57, Time: 1.192
+Novo F: 56, Time: 2.593
+Novo F: 55, Time: 3.119
+Novo F: 54, Time: 3.163
+Novo F: 52, Time: 3.52
+Novo F: 51, Time: 3.641
+Novo F: 50, Time: 3.929
+Novo F: 49, Time: 4.037
+Novo F: 48, Time: 4.568
+Novo F: 47, Time: 4.658
+Novo F: 46, Time: 4.963
+Novo F: 45, Time: 4.974
+Novo F: 44, Time: 5.138
+Novo F: 43, Time: 18.395
+Novo F: 42, Time: 19.829
+Novo F: 41, Time: 20.252
+Novo F: 40, Time: 21.754
+Novo F: 39, Time: 24.652
+Novo F: 38, Time: 25.418
+Novo F: 37, Time: 27.101
+Novo F: 36, Time: 29.729
+Novo F: 34, Time: 31.463
+ Achei minimo local
+(64) [11, 58, 27, 59, 52, 37, 4, 26, 11, 47, 34, 10, 36, 43, 18, 10, 25, 15, 4, 18, 40, 16, 31, 7, 13, 31, 5, 26, 8, 15, 12, 18, 10, 23, 1, 17, 4, 0, 16, 10, 23, 10, 6, 20, 8, 8, 4, 5, 3, 14, 3, 9, 10, 8, 4, 5, 0, 0, 3, 4, 1, 0, 1, 0]
+Novo F: 45, Time: 141.527, Total time: 7229.004
+Novo F: 77, Time: 0.012
+Novo F: 76, Time: 0.024
+Novo F: 74, Time: 0.067
+Novo F: 69, Time: 0.089
+Novo F: 67, Time: 0.199
+Novo F: 66, Time: 0.432
+Novo F: 65, Time: 0.543
+Novo F: 64, Time: 1.255
+Novo F: 63, Time: 1.87
+Novo F: 62, Time: 2.188
+Novo F: 61, Time: 3.589
+Novo F: 60, Time: 4.171
+Novo F: 59, Time: 4.393
+Novo F: 58, Time: 4.579
+Novo F: 57, Time: 4.622
+Novo F: 55, Time: 5.761
+Novo F: 54, Time: 6.405
+Novo F: 53, Time: 6.805
+Novo F: 52, Time: 7.872
+Novo F: 51, Time: 14.565
+Novo F: 50, Time: 21.59
+Novo F: 49, Time: 23.528
+ Achei minimo local
+(64) [30, 9, 19, 58, 17, 5, 32, 31, 35, 14, 7, 16, 2, 49, 9, 39, 26, 9, 43, 6, 27, 32, 16, 24, 36, 0, 24, 0, 15, 4, 23, 25, 27, 16, 16, 25, 5, 2, 19, 7, 5, 5, 7, 8, 4, 16, 13, 4, 12, 8, 5, 0, 10, 2, 2, 5, 1, 5, 4, 2, 1, 1, 0, 0]
+Novo F: 51, Time: 133.657, Total time: 7362.663
+Novo F: 83, Time: 0.011
+Novo F: 81, Time: 0.192
+Novo F: 80, Time: 0.238
+Novo F: 75, Time: 0.251
+Novo F: 74, Time: 0.393
+Novo F: 73, Time: 0.417
+Novo F: 72, Time: 0.473
+Novo F: 71, Time: 0.767
+Novo F: 69, Time: 0.834
+Novo F: 67, Time: 0.878
+Novo F: 66, Time: 0.977
+Novo F: 65, Time: 1.518
+Novo F: 64, Time: 6.832
+Novo F: 63, Time: 8.268
+Novo F: 62, Time: 8.411
+Novo F: 61, Time: 8.928
+Novo F: 58, Time: 8.94
+Novo F: 57, Time: 10.488
+Novo F: 55, Time: 13.994
+Novo F: 54, Time: 14.939
+Novo F: 53, Time: 14.984
+Novo F: 51, Time: 16.585
+Novo F: 50, Time: 17.051
+Novo F: 49, Time: 20.206
+Novo F: 48, Time: 23.605
+Novo F: 47, Time: 29.444
+ Achei minimo local
+(64) [38, 43, 50, 8, 50, 14, 0, 9, 23, 52, 44, 52, 47, 40, 21, 13, 41, 34, 20, 39, 40, 26, 19, 11, 17, 27, 2, 17, 4, 33, 9, 3, 28, 10, 17, 24, 12, 6, 17, 22, 22, 20, 8, 18, 3, 5, 9, 2, 4, 4, 1, 12, 3, 4, 8, 1, 3, 2, 2, 0, 1, 0, 1, 0]
+Novo F: 53, Time: 139.438, Total time: 7502.102
+Novo F: 79, Time: 0.012
+Novo F: 78, Time: 0.045
+Novo F: 75, Time: 0.056
+Novo F: 74, Time: 0.111
+Novo F: 73, Time: 0.122
+Novo F: 72, Time: 0.145
+Novo F: 71, Time: 0.156
+Novo F: 70, Time: 0.388
+Novo F: 68, Time: 0.4
+Novo F: 64, Time: 0.422
+Novo F: 63, Time: 0.539
+Novo F: 62, Time: 0.551
+Novo F: 60, Time: 0.573
+Novo F: 59, Time: 0.606
+Novo F: 58, Time: 0.692
+Novo F: 57, Time: 0.738
+Novo F: 56, Time: 0.804
+Novo F: 55, Time: 1.243
+Novo F: 52, Time: 1.449
+Novo F: 51, Time: 3.194
+Novo F: 50, Time: 3.931
+Novo F: 49, Time: 4.031
+Novo F: 48, Time: 4.098
+Novo F: 47, Time: 6.637
+Novo F: 46, Time: 11.887
+Novo F: 45, Time: 22.877
+Novo F: 44, Time: 26.797
+Novo F: 42, Time: 27.093
+ Achei minimo local
+(64) [20, 61, 0, 4, 49, 8, 2, 55, 46, 37, 53, 34, 17, 7, 12, 2, 38, 29, 18, 12, 32, 14, 40, 16, 13, 0, 4, 24, 9, 31, 8, 4, 28, 17, 11, 21, 20, 13, 6, 24, 21, 10, 1, 16, 17, 3, 5, 7, 7, 10, 6, 0, 0, 9, 5, 2, 1, 6, 2, 2, 2, 1, 1, 0]
+Novo F: 48, Time: 137.206, Total time: 7639.309
+Novo F: 81, Time: 0.012
+Novo F: 78, Time: 0.034
+Novo F: 77, Time: 0.089
+Novo F: 76, Time: 0.212
+Novo F: 75, Time: 0.302
+Novo F: 73, Time: 0.345
+Novo F: 71, Time: 0.441
+Novo F: 70, Time: 0.453
+Novo F: 69, Time: 0.475
+Novo F: 68, Time: 0.695
+Novo F: 67, Time: 0.707
+Novo F: 65, Time: 0.785
+Novo F: 64, Time: 0.828
+Novo F: 60, Time: 0.895
+Novo F: 58, Time: 1.256
+Novo F: 57, Time: 1.506
+Novo F: 56, Time: 2.228
+Novo F: 53, Time: 2.623
+Novo F: 51, Time: 3.022
+Novo F: 50, Time: 3.302
+Novo F: 49, Time: 6.234
+Novo F: 47, Time: 8.362
+Novo F: 46, Time: 8.778
+Novo F: 45, Time: 9.172
+Novo F: 44, Time: 12.32
+ Achei minimo local
+(64) [27, 52, 7, 20, 9, 23, 12, 15, 8, 10, 41, 33, 46, 47, 43, 2, 37, 30, 42, 25, 33, 26, 4, 31, 31, 16, 33, 32, 28, 6, 28, 9, 13, 18, 1, 0, 4, 2, 0, 21, 13, 12, 3, 14, 10, 7, 3, 8, 3, 13, 2, 3, 11, 2, 6, 7, 2, 3, 0, 2, 0, 0, 1, 0]
+Novo F: 49, Time: 122.276, Total time: 7761.586
+Novo F: 80, Time: 0.011
+Novo F: 75, Time: 0.023
+Novo F: 74, Time: 0.11
+Novo F: 73, Time: 0.39
+Novo F: 72, Time: 0.413
+Novo F: 69, Time: 0.618
+Novo F: 68, Time: 0.772
+Novo F: 67, Time: 0.907
+Novo F: 64, Time: 0.929
+Novo F: 63, Time: 1.207
+Novo F: 62, Time: 1.623
+Novo F: 60, Time: 2.124
+Novo F: 59, Time: 2.389
+Novo F: 58, Time: 2.675
+Novo F: 57, Time: 2.923
+Novo F: 56, Time: 3.033
+Novo F: 55, Time: 5.093
+Novo F: 54, Time: 5.783
+Novo F: 52, Time: 6.512
+Novo F: 51, Time: 10.194
+Novo F: 50, Time: 10.38
+Novo F: 49, Time: 11.651
+Novo F: 48, Time: 12.14
+Novo F: 47, Time: 14.156
+Novo F: 46, Time: 17.057
+Novo F: 42, Time: 17.928
+ Achei minimo local
+(64) [9, 58, 19, 34, 5, 25, 16, 1, 22, 13, 9, 17, 32, 9, 6, 13, 12, 19, 29, 14, 31, 25, 17, 6, 38, 20, 14, 28, 0, 19, 30, 0, 24, 23, 19, 3, 4, 13, 15, 12, 21, 3, 3, 14, 8, 3, 16, 13, 9, 14, 9, 10, 3, 9, 4, 1, 4, 0, 5, 2, 3, 2, 1, 0]
+Novo F: 42, Time: 128.142, Total time: 7889.729
+Novo F: 82, Time: 0.014
+Novo F: 81, Time: 0.046
+Novo F: 80, Time: 0.058
+Novo F: 79, Time: 0.07
+Novo F: 78, Time: 0.081
+Novo F: 77, Time: 0.105
+Novo F: 75, Time: 0.116
+Novo F: 73, Time: 0.172
+Novo F: 72, Time: 0.205
+Novo F: 70, Time: 0.217
+Novo F: 69, Time: 0.362
+Novo F: 68, Time: 0.516
+Novo F: 67, Time: 0.548
+Novo F: 66, Time: 1.329
+Novo F: 65, Time: 1.712
+Novo F: 64, Time: 1.779
+Novo F: 63, Time: 2.405
+Novo F: 62, Time: 2.983
+Novo F: 60, Time: 3.416
+Novo F: 59, Time: 3.656
+Novo F: 58, Time: 3.756
+Novo F: 56, Time: 3.99
+Novo F: 55, Time: 4.133
+Novo F: 54, Time: 4.166
+Novo F: 53, Time: 4.833
+Novo F: 52, Time: 6.585
+Novo F: 51, Time: 6.649
+Novo F: 50, Time: 18.722
+Novo F: 49, Time: 21.482
+ Achei minimo local
+(64) [17, 29, 7, 0, 57, 41, 18, 27, 6, 25, 42, 33, 30, 4, 11, 48, 14, 33, 21, 33, 34, 22, 12, 29, 1, 30, 6, 7, 32, 5, 9, 26, 15, 30, 7, 27, 20, 22, 17, 3, 21, 2, 11, 19, 4, 5, 3, 7, 3, 2, 11, 0, 4, 1, 9, 1, 0, 3, 5, 2, 0, 1, 0, 0]
+Novo F: 54, Time: 131.297, Total time: 8021.027
+Novo F: 81, Time: 0.014
+Novo F: 79, Time: 0.036
+Novo F: 78, Time: 0.058
+Novo F: 77, Time: 0.08
+Novo F: 75, Time: 0.168
+Novo F: 74, Time: 0.211
+Novo F: 73, Time: 0.366
+Novo F: 72, Time: 0.378
+Novo F: 71, Time: 0.433
+Novo F: 70, Time: 0.633
+Novo F: 69, Time: 0.666
+Novo F: 67, Time: 0.883
+Novo F: 64, Time: 0.983
+Novo F: 63, Time: 1.017
+Novo F: 61, Time: 1.429
+Novo F: 60, Time: 1.623
+Novo F: 59, Time: 2.033
+Novo F: 56, Time: 2.856
+Novo F: 55, Time: 3.178
+Novo F: 53, Time: 3.75
+Novo F: 52, Time: 3.958
+Novo F: 50, Time: 6.206
+Novo F: 48, Time: 16.045
+Novo F: 46, Time: 17.822
+ Achei minimo local
+(64) [30, 50, 24, 8, 33, 25, 12, 5, 16, 5, 2, 2, 11, 1, 40, 26, 11, 44, 1, 37, 37, 32, 33, 38, 30, 33, 6, 1, 9, 34, 8, 30, 20, 16, 28, 19, 3, 2, 21, 10, 15, 9, 7, 13, 14, 9, 1, 12, 9, 14, 4, 7, 3, 3, 3, 7, 2, 3, 4, 4, 3, 0, 0, 0]
+Novo F: 57, Time: 128.047, Total time: 8149.075
+Novo F: 74, Time: 0.013
+Novo F: 72, Time: 0.088
+Novo F: 70, Time: 0.122
+Novo F: 69, Time: 0.421
+Novo F: 67, Time: 0.529
+Novo F: 65, Time: 0.784
+Novo F: 64, Time: 0.979
+Novo F: 63, Time: 1.55
+Novo F: 61, Time: 2.046
+Novo F: 60, Time: 2.068
+Novo F: 59, Time: 2.24
+Novo F: 57, Time: 2.606
+Novo F: 56, Time: 2.834
+Novo F: 54, Time: 2.872
+Novo F: 52, Time: 2.896
+Novo F: 51, Time: 4.862
+Novo F: 50, Time: 5.362
+Novo F: 49, Time: 6.383
+Novo F: 48, Time: 8.762
+ Achei minimo local
+(64) [6, 3, 60, 22, 52, 30, 27, 7, 42, 10, 26, 37, 8, 26, 37, 36, 1, 35, 21, 12, 15, 30, 11, 4, 37, 8, 9, 9, 3, 12, 26, 13, 13, 0, 3, 4, 22, 23, 18, 10, 19, 19, 12, 8, 4, 4, 2, 14, 6, 4, 13, 6, 3, 10, 5, 0, 7, 5, 5, 3, 2, 0, 0, 0]
+Novo F: 55, Time: 118.959, Total time: 8268.035
+Novo F: 68, Time: 0.011
+Novo F: 67, Time: 0.145
+Novo F: 66, Time: 0.167
+Novo F: 64, Time: 0.255
+Novo F: 61, Time: 0.322
+Novo F: 60, Time: 0.498
+Novo F: 57, Time: 0.562
+Novo F: 55, Time: 0.648
+Novo F: 54, Time: 0.713
+Novo F: 53, Time: 1.191
+Novo F: 52, Time: 1.312
+Novo F: 51, Time: 1.324
+Novo F: 49, Time: 1.357
+Novo F: 48, Time: 1.851
+Novo F: 47, Time: 19.237
+Novo F: 45, Time: 19.632
+ Achei minimo local
+(64) [10, 2, 18, 32, 5, 56, 16, 2, 41, 13, 47, 2, 0, 5, 13, 2, 37, 28, 26, 37, 40, 20, 12, 40, 34, 1, 27, 13, 3, 15, 8, 18, 0, 0, 1, 17, 17, 7, 15, 22, 4, 6, 15, 7, 2, 11, 10, 0, 8, 3, 1, 7, 1, 9, 2, 4, 7, 6, 3, 4, 1, 0, 1, 0]
+Novo F: 54, Time: 129.913, Total time: 8397.949
+Novo F: 71, Time: 0.011
+Novo F: 66, Time: 0.044
+Novo F: 64, Time: 0.395
+Novo F: 63, Time: 0.505
+Novo F: 62, Time: 0.761
+Novo F: 61, Time: 0.871
+Novo F: 59, Time: 0.883
+Novo F: 58, Time: 1.072
+Novo F: 56, Time: 2.872
+Novo F: 55, Time: 2.938
+Novo F: 54, Time: 3.195
+Novo F: 53, Time: 3.355
+Novo F: 52, Time: 3.934
+Novo F: 51, Time: 5.434
+Novo F: 50, Time: 6.034
+Novo F: 49, Time: 6.317
+Novo F: 48, Time: 7.802
+Novo F: 47, Time: 9.387
+ Achei minimo local
+(64) [59, 60, 7, 7, 37, 14, 50, 14, 38, 44, 25, 48, 15, 28, 16, 33, 28, 13, 3, 14, 39, 3, 33, 15, 2, 29, 36, 7, 13, 0, 6, 5, 15, 7, 25, 19, 2, 12, 21, 24, 16, 12, 10, 7, 7, 5, 9, 12, 2, 0, 11, 4, 2, 0, 0, 0, 7, 2, 3, 4, 2, 2, 1, 0]
+Novo F: 52, Time: 119.501, Total time: 8517.452
+Novo F: 75, Time: 0.015
+Novo F: 72, Time: 0.037
+Novo F: 71, Time: 0.081
+Novo F: 69, Time: 0.157
+Novo F: 68, Time: 0.214
+Novo F: 67, Time: 0.226
+Novo F: 66, Time: 0.291
+Novo F: 65, Time: 0.324
+Novo F: 63, Time: 0.377
+Novo F: 62, Time: 0.389
+Novo F: 61, Time: 0.434
+Novo F: 60, Time: 0.773
+Novo F: 57, Time: 0.841
+Novo F: 56, Time: 1.324
+Novo F: 54, Time: 2.735
+Novo F: 53, Time: 3.214
+Novo F: 52, Time: 3.781
+Novo F: 51, Time: 3.964
+Novo F: 50, Time: 4.651
+Novo F: 49, Time: 5.541
+Novo F: 47, Time: 9.024
+Novo F: 46, Time: 11.518
+Novo F: 45, Time: 13.301
+Novo F: 44, Time: 13.748
+Novo F: 43, Time: 14.907
+ Achei minimo local
+(64) [17, 48, 23, 36, 46, 52, 27, 21, 42, 27, 18, 18, 6, 33, 30, 13, 32, 25, 35, 21, 14, 22, 37, 7, 2, 21, 23, 35, 19, 26, 15, 1, 19, 4, 18, 4, 26, 6, 6, 16, 18, 10, 6, 6, 2, 17, 3, 5, 15, 5, 8, 5, 5, 0, 3, 5, 1, 2, 3, 0, 2, 1, 1, 0]
+Novo F: 44, Time: 125.159, Total time: 8642.612
+Novo F: 79, Time: 0.011
+Novo F: 75, Time: 0.034
+Novo F: 74, Time: 0.169
+Novo F: 73, Time: 0.202
+Novo F: 72, Time: 0.401
+Novo F: 71, Time: 0.434
+Novo F: 70, Time: 0.446
+Novo F: 68, Time: 0.479
+Novo F: 67, Time: 0.502
+Novo F: 65, Time: 0.534
+Novo F: 63, Time: 0.578
+Novo F: 61, Time: 0.599
+Novo F: 59, Time: 0.678
+Novo F: 58, Time: 0.701
+Novo F: 56, Time: 0.712
+Novo F: 54, Time: 0.851
+Novo F: 53, Time: 0.873
+Novo F: 52, Time: 1.084
+Novo F: 50, Time: 1.626
+Novo F: 49, Time: 1.735
+Novo F: 47, Time: 1.889
+Novo F: 46, Time: 1.968
+Novo F: 45, Time: 3.572
+Novo F: 44, Time: 34.687
+Novo F: 43, Time: 34.699
+Novo F: 42, Time: 43.501
+ Achei minimo local
+(64) [47, 56, 21, 30, 34, 0, 45, 15, 9, 46, 5, 47, 17, 31, 33, 45, 27, 23, 13, 6, 15, 4, 36, 10, 27, 21, 7, 9, 12, 8, 3, 27, 15, 8, 13, 24, 17, 5, 8, 13, 6, 1, 14, 14, 4, 18, 15, 6, 7, 9, 13, 9, 0, 1, 8, 2, 1, 3, 0, 3, 2, 0, 1, 0]
+Novo F: 49, Time: 153.528, Total time: 8796.142
+Novo F: 79, Time: 0.012
+Novo F: 76, Time: 0.065
+Novo F: 75, Time: 0.077
+Novo F: 73, Time: 0.11
+Novo F: 72, Time: 0.122
+Novo F: 70, Time: 0.155
+Novo F: 69, Time: 0.408
+Novo F: 68, Time: 0.434
+Novo F: 66, Time: 0.809
+Novo F: 64, Time: 0.975
+Novo F: 63, Time: 1.125
+Novo F: 62, Time: 1.232
+Novo F: 60, Time: 1.52
+Novo F: 58, Time: 1.531
+Novo F: 57, Time: 1.858
+Novo F: 55, Time: 3.298
+Novo F: 54, Time: 3.581
+Novo F: 53, Time: 3.614
+Novo F: 52, Time: 3.855
+Novo F: 51, Time: 3.867
+Novo F: 50, Time: 4.548
+Novo F: 48, Time: 5.015
+Novo F: 47, Time: 5.981
+ Achei minimo local
+(64) [24, 49, 29, 51, 2, 42, 13, 51, 28, 7, 47, 23, 44, 26, 17, 13, 47, 3, 27, 23, 24, 19, 38, 16, 38, 23, 36, 1, 10, 22, 11, 4, 29, 23, 16, 11, 17, 14, 15, 16, 21, 12, 9, 3, 8, 4, 4, 6, 14, 0, 12, 8, 4, 7, 2, 8, 6, 5, 1, 2, 2, 0, 1, 0]
+Novo F: 57, Time: 115.867, Total time: 8912.01
+Novo F: 70, Time: 0.011
+Novo F: 66, Time: 0.023
+Novo F: 64, Time: 0.077
+Novo F: 63, Time: 0.152
+Novo F: 61, Time: 0.248
+Novo F: 59, Time: 0.27
+Novo F: 58, Time: 0.384
+Novo F: 57, Time: 0.485
+Novo F: 56, Time: 0.993
+Novo F: 55, Time: 1.421
+Novo F: 54, Time: 1.511
+Novo F: 53, Time: 1.568
+Novo F: 52, Time: 1.754
+Novo F: 50, Time: 5.051
+Novo F: 49, Time: 5.366
+Novo F: 48, Time: 6.438
+Novo F: 47, Time: 6.481
+Novo F: 46, Time: 8.246
+Novo F: 45, Time: 17.388
+Novo F: 44, Time: 83.194
+Novo F: 43, Time: 83.994
+ Achei minimo local
+(64) [38, 31, 13, 10, 50, 52, 19, 24, 22, 52, 9, 12, 20, 32, 28, 1, 36, 34, 3, 42, 13, 14, 27, 12, 13, 5, 16, 19, 13, 34, 11, 27, 13, 26, 10, 20, 12, 4, 2, 12, 19, 19, 19, 3, 4, 7, 16, 8, 3, 11, 3, 6, 0, 3, 5, 1, 5, 0, 3, 1, 1, 0, 0, 0]
+Novo F: 49, Time: 385.082, Total time: 9297.093
+Novo F: 78, Time: 0.014
+Novo F: 77, Time: 0.057
+Novo F: 75, Time: 0.1
+Novo F: 68, Time: 0.133
+Novo F: 65, Time: 0.157
+Novo F: 64, Time: 0.168
+Novo F: 63, Time: 0.488
+Novo F: 62, Time: 1.411
+Novo F: 61, Time: 1.568
+Novo F: 60, Time: 1.623
+Novo F: 59, Time: 1.962
+Novo F: 58, Time: 2.957
+Novo F: 57, Time: 3.223
+Novo F: 56, Time: 3.933
+Novo F: 55, Time: 4.777
+Novo F: 54, Time: 5.024
+Novo F: 53, Time: 5.307
+Novo F: 52, Time: 5.384
+Novo F: 51, Time: 7.821
+Novo F: 49, Time: 8.175
+Novo F: 48, Time: 8.523
+ Achei minimo local
+(64) [59, 32, 48, 37, 10, 2, 21, 25, 0, 28, 7, 23, 41, 18, 9, 29, 8, 34, 15, 38, 6, 0, 8, 9, 16, 11, 16, 28, 34, 25, 31, 0, 7, 19, 22, 16, 7, 13, 3, 15, 5, 7, 2, 6, 12, 15, 5, 0, 4, 4, 10, 8, 10, 9, 4, 7, 3, 2, 0, 1, 0, 1, 0, 0]
+Novo F: 51, Time: 118.559, Total time: 9415.653
+Novo F: 70, Time: 0.011
+Novo F: 68, Time: 0.044
+Novo F: 67, Time: 0.067
+Novo F: 66, Time: 0.168
+Novo F: 64, Time: 0.265
+Novo F: 63, Time: 0.451
+Novo F: 62, Time: 0.668
+Novo F: 61, Time: 0.884
+Novo F: 60, Time: 0.973
+Novo F: 58, Time: 1.407
+Novo F: 57, Time: 1.806
+Novo F: 56, Time: 2.602
+Novo F: 54, Time: 3.219
+Novo F: 53, Time: 3.514
+Novo F: 52, Time: 3.869
+Novo F: 51, Time: 4.007
+Novo F: 50, Time: 4.184
+Novo F: 48, Time: 8.185
+Novo F: 47, Time: 11.534
+Novo F: 46, Time: 15.739
+Novo F: 45, Time: 19.662
+Novo F: 44, Time: 20.04
+ Achei minimo local
+(64) [63, 56, 4, 31, 6, 11, 28, 45, 42, 22, 11, 30, 0, 50, 4, 36, 19, 0, 23, 30, 14, 24, 14, 10, 34, 5, 23, 33, 24, 0, 8, 2, 13, 1, 25, 15, 12, 14, 22, 16, 12, 2, 16, 1, 9, 16, 14, 9, 13, 6, 11, 8, 10, 4, 5, 0, 5, 5, 2, 3, 2, 0, 0, 0]
+Novo F: 52, Time: 129.943, Total time: 9545.597
+Novo F: 83, Time: 0.012
+Novo F: 75, Time: 0.023
+Novo F: 74, Time: 0.155
+Novo F: 73, Time: 0.219
+Novo F: 71, Time: 0.651
+Novo F: 70, Time: 0.806
+Novo F: 68, Time: 0.828
+Novo F: 67, Time: 0.958
+Novo F: 66, Time: 1.001
+Novo F: 65, Time: 1.173
+Novo F: 62, Time: 1.206
+Novo F: 60, Time: 1.95
+Novo F: 59, Time: 2.016
+Novo F: 58, Time: 3.949
+Novo F: 56, Time: 4.416
+Novo F: 55, Time: 11.18
+Novo F: 54, Time: 13.199
+Novo F: 53, Time: 18.345
+Novo F: 52, Time: 18.9
+Novo F: 50, Time: 26.743
+ Achei minimo local
+(64) [10, 18, 3, 33, 56, 2, 49, 13, 39, 26, 43, 33, 38, 46, 47, 46, 15, 28, 33, 20, 25, 10, 38, 22, 33, 4, 9, 23, 24, 12, 29, 6, 29, 11, 2, 8, 4, 16, 3, 16, 12, 21, 19, 16, 19, 14, 5, 1, 15, 8, 4, 6, 0, 6, 2, 4, 5, 0, 5, 3, 3, 2, 0, 0]
+Novo F: 52, Time: 136.679, Total time: 9682.277
+Novo F: 78, Time: 0.011
+Novo F: 74, Time: 0.045
+Novo F: 73, Time: 0.169
+Novo F: 70, Time: 0.291
+Novo F: 68, Time: 0.434
+Novo F: 67, Time: 1.095
+Novo F: 66, Time: 1.107
+Novo F: 64, Time: 1.174
+Novo F: 63, Time: 1.208
+Novo F: 62, Time: 1.448
+Novo F: 60, Time: 1.791
+Novo F: 59, Time: 1.925
+Novo F: 58, Time: 2.536
+Novo F: 57, Time: 2.668
+Novo F: 54, Time: 3.696
+Novo F: 53, Time: 3.912
+Novo F: 52, Time: 4.435
+Novo F: 51, Time: 5.96
+Novo F: 50, Time: 7.058
+Novo F: 49, Time: 7.179
+Novo F: 48, Time: 7.235
+Novo F: 47, Time: 8.868
+Novo F: 46, Time: 10.518
+Novo F: 45, Time: 12.951
+Novo F: 41, Time: 14.599
+ Achei minimo local
+(64) [22, 34, 12, 30, 47, 49, 57, 41, 29, 39, 4, 7, 14, 27, 47, 16, 22, 39, 41, 26, 31, 15, 9, 17, 16, 23, 2, 33, 15, 12, 2, 5, 24, 10, 6, 15, 1, 12, 6, 9, 17, 13, 2, 15, 7, 9, 2, 15, 1, 4, 6, 8, 3, 4, 3, 3, 4, 6, 2, 3, 2, 0, 0, 0]
+Novo F: 42, Time: 124.447, Total time: 9806.725
+Novo F: 75, Time: 0.012
+Novo F: 72, Time: 0.024
+Novo F: 70, Time: 0.068
+Novo F: 67, Time: 0.091
+Novo F: 65, Time: 0.102
+Novo F: 64, Time: 0.209
+Novo F: 63, Time: 0.263
+Novo F: 61, Time: 0.703
+Novo F: 59, Time: 0.779
+Novo F: 57, Time: 1.019
+Novo F: 56, Time: 1.312
+Novo F: 55, Time: 1.996
+Novo F: 54, Time: 2.216
+Novo F: 53, Time: 2.314
+Novo F: 52, Time: 2.413
+Novo F: 51, Time: 2.612
+Novo F: 50, Time: 2.876
+Novo F: 49, Time: 3.086
+Novo F: 48, Time: 4.619
+Novo F: 46, Time: 6.351
+Novo F: 45, Time: 6.407
+Novo F: 44, Time: 17.946
+Novo F: 43, Time: 22.141
+Novo F: 42, Time: 28.595
+Novo F: 41, Time: 29.492
+Novo F: 40, Time: 31.835
+ Achei minimo local
+(64) [54, 36, 22, 6, 27, 22, 18, 51, 46, 25, 16, 52, 20, 31, 33, 22, 36, 10, 15, 12, 24, 2, 13, 15, 26, 13, 10, 8, 25, 29, 15, 21, 23, 1, 9, 7, 19, 4, 23, 22, 4, 8, 11, 7, 2, 7, 8, 15, 13, 5, 4, 7, 1, 4, 7, 4, 2, 6, 1, 1, 3, 1, 1, 0]
+Novo F: 40, Time: 141.877, Total time: 9948.603
+Novo F: 89, Time: 0.013
+Novo F: 88, Time: 0.024
+Novo F: 87, Time: 0.046
+Novo F: 84, Time: 0.069
+Novo F: 83, Time: 0.081
+Novo F: 82, Time: 0.092
+Novo F: 78, Time: 0.114
+Novo F: 76, Time: 0.147
+Novo F: 74, Time: 0.161
+Novo F: 73, Time: 0.216
+Novo F: 72, Time: 0.228
+Novo F: 71, Time: 0.315
+Novo F: 69, Time: 0.383
+Novo F: 68, Time: 0.439
+Novo F: 63, Time: 0.628
+Novo F: 62, Time: 0.683
+Novo F: 61, Time: 0.917
+Novo F: 60, Time: 1.128
+Novo F: 59, Time: 1.639
+Novo F: 58, Time: 1.822
+Novo F: 55, Time: 2.321
+Novo F: 53, Time: 7.516
+Novo F: 52, Time: 8.845
+Novo F: 51, Time: 12.641
+Novo F: 50, Time: 12.782
+Novo F: 49, Time: 14.872
+Novo F: 48, Time: 24.767
+Novo F: 47, Time: 31.416
+Novo F: 46, Time: 31.895
+Novo F: 45, Time: 35.061
